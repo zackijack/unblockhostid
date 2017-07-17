@@ -371,4 +371,7 @@
 178.18.205.254 forums.mangafox.me
 
 [TANIX.NET]
-104.25.40.116 tanix.net
+104.25.40.116 tanix.net www.tanix.net
+
+[HEAVY.COM]
+192.0.79.34 heavy.com www.heavy.com
