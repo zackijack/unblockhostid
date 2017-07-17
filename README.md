@@ -89,6 +89,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - T.me
 - Mangafox.me
 - Mangapanda.com
+- Tanix.net
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -98,6 +99,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 **v16** Added some sites & Bug fix
 - Mangafox.me
 - Mangapanda.com
+- Tanix.net
 
 ```
 Raw updated
