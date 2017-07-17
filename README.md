@@ -90,6 +90,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Mangafox.me
 - Mangapanda.com
 - Tanix.net
+- Heavy.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -100,6 +101,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Mangafox.me
 - Mangapanda.com
 - Tanix.net
+- Heavy.com
 
 ```
 Raw updated
