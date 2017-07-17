@@ -369,3 +369,6 @@
 176.53.21.90 www.mangafox.me
 185.4.227.118 m.mangafox.me
 178.18.205.254 forums.mangafox.me
+
+[TANIX.NET]
+104.25.40.116 tanix.net
