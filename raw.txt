@@ -79,6 +79,7 @@
 141.101.120.55 nhentai.net
 141.101.120.55 static.nhentai.net
 185.2.83.13 t.nhentai.net
+185.2.83.13 i.nhentai.net
 
 [GELBOORU.COM]
 5.178.68.100 gelbooru.com
@@ -375,3 +376,9 @@
 
 [HEAVY.COM]
 192.0.79.34 heavy.com www.heavy.com
+
+[MRPORNX.COM]
+185.7.34.227 mrpornx.com www.mrpornx.com
+
+[THEPORNDUDE.COM]
+104.20.3.239 theporndude.com
