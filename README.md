@@ -91,12 +91,25 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Mangapanda.com
 - Tanix.net
 - Heavy.com
+- Mrpornx.com
+- Theporndude.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
 
 # Changelog
+**v17** Added some sites & Bug fix
+- Mrpornx.com
+- Theporndude.com
+
+```
+Bug fixed
+
+185.2.83.13 i.nhentai.net
+
+```
+
 **v16** Added some sites & Bug fix
 - Mangafox.me
 - Mangapanda.com
