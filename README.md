@@ -93,6 +93,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Heavy.com
 - Mrpornx.com
 - Theporndude.com
+- Pururin.us
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -102,6 +103,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 **v17** Added some sites & Bug fix
 - Mrpornx.com
 - Theporndude.com
+- Pururin.us
 
 ```
 Bug fixed
