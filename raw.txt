@@ -385,3 +385,14 @@
 
 [PURURIN.US]
 104.28.19.238 pururin.us www.pururin.us
+
+[BRAZZERS.COM]
+216.18.168.61 ma.brazzers.com
+216.18.168.70 www.brazzers.com
+216.18.168.70 brazzers.com
+216.18.168.70 m.brazzers.com
+216.18.168.70 fhg2.brazzers.com
+66.254.109.60 enter.brazzers.com
+64.88.250.177 brazzerscontent.com
+205.185.208.25 static-tour-hw.brazzerscontent.com
+205.185.208.25 static-hw.brazzerscontent.com
