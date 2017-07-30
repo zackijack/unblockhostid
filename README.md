@@ -95,6 +95,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Theporndude.com
 - Pururin.us
 - Brazzers.com
+- Pornmd.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -106,6 +107,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Theporndude.com
 - Pururin.us
 - Brazzers.com
+- Pornmd.com
 
 ```
 Bug fixed
