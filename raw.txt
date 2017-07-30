@@ -396,3 +396,6 @@
 64.88.250.177 brazzerscontent.com
 205.185.208.25 static-tour-hw.brazzerscontent.com
 205.185.208.25 static-hw.brazzerscontent.com
+
+[PORNMD.COM]
+216.18.168.48 pornmd.com www.pornmd.com
