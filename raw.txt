@@ -399,3 +399,6 @@
 
 [PORNMD.COM]
 216.18.168.48 pornmd.com www.pornmd.com
+
+[MP4HENTAI.COM]
+104.28.8.24 mp4hentai.com www.mp4hentai.com
