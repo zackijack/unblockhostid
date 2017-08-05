@@ -16,7 +16,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 Download versi GUI melalui link ini: https://github.com/apkcube/blockhostid/blob/master/BlockHostID-GUI.exe?raw=true
 
-Jalankan dengan "Run as administrator", klik Apply, done.
+Jalankan BlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
 
 **Cara Mudah #2**
 
