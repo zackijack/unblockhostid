@@ -96,12 +96,16 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Pururin.us
 - Brazzers.com
 - Pornmd.com
+- Mp4hentai.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
 
 # Changelog
+**v18** Added some sites
+- Mp4hentai.com
+
 **v17** Added some sites & Bug fix
 - Mrpornx.com
 - Theporndude.com
