@@ -12,6 +12,14 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 ### Cara Mudah
 
+**Cara Mudah #1**
+
+Download versi GUI melalui link ini: https://github.com/apkcube/blockhostid/blob/master/BlockHostID-GUI.exe?raw=true
+
+Jalankan dengan "Run as administrator", klik Apply, done.
+
+**Cara Mudah #2**
+
 Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
