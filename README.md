@@ -105,6 +105,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Brazzers.com
 - Pornmd.com
 - Mp4hentai.com
+- Netflix.com
+- Kissmanga.com
+- Kissanime.ru
+- Kissasian.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -113,6 +117,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 # Changelog
 **v18** Added some sites
 - Mp4hentai.com
+- Netflix.com
+- Kissmanga.com
+- Kissanime.ru
+- Kissasian.com
 
 **v17** Added some sites & Bug fix
 - Mrpornx.com
