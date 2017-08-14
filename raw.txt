@@ -417,3 +417,6 @@
 
 [RAW.SENMANGA.COM]
 195.154.211.133 raw.senmanga.com
+
+[ROTTEN.COM]
+216.218.248.135 rotten.com www.rotten.com
