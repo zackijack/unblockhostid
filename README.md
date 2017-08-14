@@ -109,6 +109,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
+- Raw.senmanga.com
+- Rotten.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -121,6 +123,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
+- Raw.senmanga.com
+- Rotten.com
 
 **v17** Added some sites & Bug fix
 - Mrpornx.com
