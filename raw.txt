@@ -414,3 +414,6 @@
 
 [KISSASIAN.COM]
 104.25.46.113 kissasian.com www.kissasian.com
+
+[RAW.SENMANGA.COM]
+195.154.211.133 raw.senmanga.com
