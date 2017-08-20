@@ -420,3 +420,6 @@
 
 [ROTTEN.COM]
 216.218.248.135 rotten.com www.rotten.com
+
+[HENTAIMAMA.COM]
+104.28.29.117 hentaimama.com www.hentaimama.com
