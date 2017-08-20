@@ -111,13 +111,14 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Kissasian.com
 - Raw.senmanga.com
 - Rotten.com
+- Hentaimama.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
 
 # Changelog
-**v18** Added some sites
+**v18** Added some sites & Bug fix
 - Mp4hentai.com
 - Netflix.com
 - Kissmanga.com
@@ -125,6 +126,11 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Kissasian.com
 - Raw.senmanga.com
 - Rotten.com
+- Hentaimama.com
+
+```
+Added experimental version & fixed some little bug on GUI.
+```
 
 **v17** Added some sites & Bug fix
 - Mrpornx.com
