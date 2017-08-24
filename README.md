@@ -132,7 +132,6 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 
 ```
 Added experimental version & fixed some little bug on GUI.
-
 ```
 
 ```
