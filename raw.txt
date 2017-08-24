@@ -356,14 +356,6 @@
 [A-ADS.COM]
 104.25.250.34 a-ads.com
 
-[TELEGRAM.ME]
-149.154.167.118 web.telegram.me
-149.154.167.118 telegram.me
-149.154.167.118 ipv6.telegram.me
-
-[T.ME]
-149.154.167.118 t.me
-
 [MANGAPANDA.COM]
 104.20.162.10 s5.mangapanda.com
 185.86.164.130 mangapanda.com
