@@ -132,6 +132,15 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 
 ```
 Added experimental version & fixed some little bug on GUI.
+
+```
+
+```
+Bug fixed
+
+34.201.177.177 developers.giphy.com
+52.202.213.23 developers.giphy.com
+151.101.54.2 developers.giphy.com
 ```
 
 **v17** Added some sites & Bug fix
