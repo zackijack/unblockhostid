@@ -112,6 +112,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Raw.senmanga.com
 - Rotten.com
 - Hentaimama.com
+- Giphy.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -127,6 +128,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Raw.senmanga.com
 - Rotten.com
 - Hentaimama.com
+- Giphy.com
 
 ```
 Added experimental version & fixed some little bug on GUI.
