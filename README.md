@@ -2,7 +2,7 @@
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa vpn.
 
 # Cara Install
-Sebelumnya, download filenya dulu melalui link [ini](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
+Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
 
 ## PC
 
@@ -14,7 +14,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 **Cara Mudah #1**
 
-Download versi GUI melalui link [ini](https://github.com/apkcube/blockhostid/blob/master/BlockHostID-GUI.exe?raw=true)
+Download versi GUI melalui link ini: [BlockHostID-GUI.exe](https://github.com/apkcube/blockhostid/blob/master/BlockHostID-GUI.exe?raw=true)
 
 Jalankan BlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
 
