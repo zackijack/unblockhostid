@@ -113,6 +113,9 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Rotten.com
 - Hentaimama.com
 - Giphy.com
+- Javfull.tv
+- Highporn.net
+- Dl8x.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -122,6 +125,11 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/blockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Changelog
+**v19** Added some sites
+- Javfull.tv
+- Highporn.net
+- Dl8x.com
+
 **v18** Added some sites & Bug fix
 - Mp4hentai.com
 - Netflix.com
