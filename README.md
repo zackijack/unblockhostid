@@ -116,6 +116,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Javfull.tv
 - Highporn.net
 - Dl8x.com
+- Purenudism.com
+- Anime-sharing.com
+- Complets.co.jp
+- Yuuk.net
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -129,6 +133,10 @@ BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcub
 - Javfull.tv
 - Highporn.net
 - Dl8x.com
+- Purenudism.com
+- Anime-sharing.com
+- Complets.co.jp
+- Yuuk.net
 
 **v18** Added some sites & Bug fix
 - Mp4hentai.com
