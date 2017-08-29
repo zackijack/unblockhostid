@@ -447,3 +447,18 @@
 
 [DL8X.COM]
 104.27.137.67 dl8x.com www.dl8x.com
+
+[PURENUDISM.COM]
+141.0.173.172 purenudism.com www.purenudism.com
+198.232.127.46 content.purenudism.com
+141.0.173.18 members.purenudism.com
+
+[ANIME-SHARING.COM]
+104.25.23.115 anime-sharing.com www.anime-sharing.com
+198.27.125.17 wiki.anime-sharing.com
+
+[COMPLETS.CO.JP]
+153.122.55.127 complets.co.jp www.complets.co.jp
+
+[YUUK.NET]
+104.28.14.80 yuuk.net www.yuuk.net
