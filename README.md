@@ -4,7 +4,7 @@ Script ini dapat membantu anda untuk bypass semua konten website yang diblokir I
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
 
-## PC
+## Windows
 
 ### Cara Sulit
 
@@ -39,6 +39,10 @@ Akan ada peringatan replace, pilih replace.
 Restart hp.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+## Linux dan MacOS
+
+Untuk tutorial Linux dan MacOS silahkan baca tutorialnya [disini](https://pastebin.com/raw/dSFs93i2).
 
 ## Experimental
 
