@@ -28,6 +28,8 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 #**Root Only**#
 
+**Manual**
+
 Rename file hosts (Android) menjadi hosts saja.
 
 Kemudian copy file.
@@ -39,6 +41,24 @@ Akan ada peringatan replace, pilih replace.
 Restart hp.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+**Aplikasi**
+
+Bisa juga melalui aplikasi AdAway yang bisa didownload [disini](https://f-droid.org/repo/org.adaway_60.apk)
+
+Lalu install seperti biasa.
+
+Buka dan grant akses root
+
+Hapus semua centang pada hosts sources
+
+Klik add lalu tambahkan link berikut
+
+```
+https://github.com/apkcube/blockhostid/blob/master/hosts%20(Android)
+```
+
+Apply.. Selesai..
 
 ## Linux dan MacOS
 
