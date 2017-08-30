@@ -26,7 +26,7 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 ## Android
 
-#**Root Only**#
+#**Root**#
 
 **Manual**
 
@@ -59,6 +59,10 @@ https://github.com/apkcube/blockhostid/blob/master/hosts%20(Android)
 ```
 
 Apply.. Selesai..
+
+#**Non-Root**#
+
+Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/X7jVdDBc).
 
 ## Linux dan MacOS
 
