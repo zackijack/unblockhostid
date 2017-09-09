@@ -157,7 +157,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/blockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Changelog
-**v19** Added some sites
+**v19** Added some sites & Bug fix
 - Javfull.tv
 - Highporn.net
 - Dl8x.com
@@ -165,6 +165,10 @@ BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcub
 - Anime-sharing.com
 - Complets.co.jp
 - Yuuk.net
+
+```
+Bug fix on Hentaihaven.org
+```
 
 **v18** Added some sites & Bug fix
 - Mp4hentai.com
