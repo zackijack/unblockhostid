@@ -148,6 +148,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Anime-sharing.com
 - Complets.co.jp
 - Yuuk.net
+- Oload.tv
+- Redflava.com
+- Xiuren.org
+- Nutaku.net
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -165,6 +169,10 @@ BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcub
 - Anime-sharing.com
 - Complets.co.jp
 - Yuuk.net
+- Oload.tv
+- Redflava.com
+- Xiuren.org
+- Nutaku.net
 
 ```
 Bug fix on Hentaihaven.org
