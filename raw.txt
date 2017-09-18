@@ -462,3 +462,13 @@
 
 [YUUK.NET]
 104.28.14.80 yuuk.net www.yuuk.net
+
+[OLOAD.TV]
+104.16.134.15 oload.tv www.oload.tv
+
+[REDFLAVA.COM]
+85.10.202.22 redflava.com www.redflava.com
+85.10.202.22 gallery.redflava.com
+
+[XIUREN.ORG]
+185.11.146.55 xiuren.org www.xiuren.org
