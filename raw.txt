@@ -585,7 +585,7 @@
 107.191.33.141 streetmeatasia.com www.streetmeatasia.com
 185.42.223.103 cdn.streetmeatasia.com
 
-[ASIANSTREETMEAT]
+[ASIANSTREETMEAT.COM]
 107.191.33.134 asianstreetmeat.com www.asianstreetmeat.com
 
 [YESPORNPLEASE.COM]
