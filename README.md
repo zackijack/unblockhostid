@@ -74,6 +74,10 @@ Untuk tutorial Linux dan MacOS silahkan baca tutorialnya [disini](https://pasteb
 
 *Versi experimental adalah versi khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
 
+## Safe for Work
+
+*Versi Safe for Work adalah versi khusus non-porn, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
+
 # Peringatan
 Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit berlebihan tidak akan saya kerjakan. Terima Kasih.
 
@@ -188,6 +192,22 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
+
+*[SAFE FOR WORK]*
+- Kbagi.com
+- Openload.co
+- Reddit.com
+- Vimeo.com
+- Thepiratebay.org
+- Yts.ag
+- Omegle.com
+- Rarbg.to
+- Eztv.ag
+- Isohunt.to
+- 4chan.org
+- Newgrounds.com
+- Heavy.com
+- Netflix.com
 
 # Licence
 BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/blockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
