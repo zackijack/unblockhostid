@@ -154,6 +154,36 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Redflava.com
 - Xiuren.org
 - Nutaku.net
+- Bangbros.com
+- Blacked.com
+- Throated.com
+- Tiny4k.com
+- X-art.com
+- Nubiefilms.com
+- Familystrokes.com
+- Javhihi.com
+- Evilangel.com
+- Girlsdoporn.com
+- Javjunkies.com
+- S1s1s1.com
+- Moodyz.com
+- Gravuregirlz.com
+- Data18.com
+- Mangago.me
+- Wetmelon.com
+- Javhd.pro
+- Scanlover.com
+- 2chan.net
+- Javsubtitle.co
+- Asiansexdiary.com
+- Streetmeatasia.com
+- Asiastreetmeat.com
+- Yespornplease.com
+- Thiendia.com
+- Pornleech.com
+- Sexix.net
+- Chaturbate.com
+- Digitalplayground.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -170,6 +200,38 @@ BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcub
 Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/blockhostid/issues/new).
 
 # Changelog
+**v20** Added some sites
+- Bangbros.com
+- Blacked.com
+- Throated.com
+- Tiny4k.com
+- X-art.com
+- Nubiefilms.com
+- Familystrokes.com
+- Javhihi.com
+- Evilangel.com
+- Girlsdoporn.com
+- Javjunkies.com
+- S1s1s1.com
+- Moodyz.com
+- Gravuregirlz.com
+- Data18.com
+- Mangago.me
+- Wetmelon.com
+- Javhd.pro
+- Scanlover.com
+- 2chan.net
+- Javsubtitle.co
+- Asiansexdiary.com
+- Streetmeatasia.com
+- Asiastreetmeat.com
+- Yespornplease.com
+- Thiendia.com
+- Pornleech.com
+- Sexix.net
+- Chaturbate.com
+- Digitalplayground.com
+
 **v19** Added some sites & Bug fix
 - Javfull.tv
 - Highporn.net
