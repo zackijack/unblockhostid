@@ -1,7 +1,7 @@
 # BlockHostID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa vpn.
 
-![GUI v19](https://image.ibb.co/evkNB5/Capture1.jpg)
+![GUI v19](http://image.ibb.co/km9Wqb/Capture.jpg)
 
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
@@ -188,6 +188,12 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Sexix.net
 - Chaturbate.com
 - Digitalplayground.com
+- Kissmanga.com
+- Javhd3x.com
+- Javhd4k.com
+- Pornhd3x.to
+- Dlsite.com
+- Dlsite.jp
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -251,6 +257,12 @@ Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com
 - Sexix.net
 - Chaturbate.com
 - Digitalplayground.com
+- Kissmanga.com
+- Javhd3x.com
+- Javhd4k.com
+- Pornhd3x.to
+- Dlsite.com
+- Dlsite.jp
 
 **v19** Added some sites & Bug fix
 - Javfull.tv
