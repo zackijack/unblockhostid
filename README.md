@@ -1,7 +1,7 @@
 # BlockHostID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa vpn.
 
-![GUI v20](http://image.ibb.co/km9Wqb/Capture.jpg)
+![GUI v20](https://i.imgur.com/K9tsOyn.jpg)
 
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
