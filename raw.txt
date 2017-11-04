@@ -643,3 +643,6 @@
 
 [DLSITE.JP]
 52.197.216.167 dlsite.jp www.dlsite.jp
+
+[HENTAI.CAFE]
+104.25.23.115 hentai.cafe www.hentai.cafe
