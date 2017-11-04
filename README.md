@@ -194,6 +194,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Pornhd3x.to
 - Dlsite.com
 - Dlsite.jp
+- Hentai.cafe
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -263,6 +264,7 @@ Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com
 - Pornhd3x.to
 - Dlsite.com
 - Dlsite.jp
+- Hentai.cafe
 
 **v19** Added some sites & Bug fix
 - Javfull.tv
