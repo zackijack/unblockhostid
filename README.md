@@ -195,6 +195,12 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Dlsite.com
 - Dlsite.jp
 - Hentai.cafe
+- Porntrex.com
+- Swfchan.com
+- Vporn.com
+- Doujin-moe.us
+- Mangagag.com
+- Projecthentai.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -227,6 +233,14 @@ BlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcub
 Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/blockhostid/issues/new).
 
 # Changelog
+**v21** Added some sites
+- Porntrex.com
+- Swfchan.com
+- Vporn.com
+- Doujin-moe.us
+- Mangagag.com
+- Projecthentai.com
+
 **v20** Added some sites
 - Bangbros.com
 - Blacked.com
