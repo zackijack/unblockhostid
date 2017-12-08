@@ -664,3 +664,9 @@
 
 [PROJECTHENTAI.COM]
 92.222.110.68 projecthentai.com www.projecthentai.com
+
+[SAVIDO.NET]
+45.58.55.244 savido.net www.savido.net
+
+[BAKABT.ME]
+104.28.18.24 bakabt.me www.bakabt.me
