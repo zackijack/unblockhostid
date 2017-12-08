@@ -201,6 +201,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Doujin-moe.us
 - Mangagag.com
 - Projecthentai.com
+- Savido.net
+- Bakabt.me
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -240,6 +242,8 @@ Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com
 - Doujin-moe.us
 - Mangagag.com
 - Projecthentai.com
+- Savido.net
+- Bakabt.me
 
 **v20** Added some sites
 - Bangbros.com
