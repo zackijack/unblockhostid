@@ -3,8 +3,14 @@ Script ini dapat membantu anda untuk bypass semua konten website yang diblokir I
 
 ![GUI v21](https://image.prntscr.com/image/LGjslb8_QIaC308enuEAcA.png)
 
-# Cara Install
+# Supported Sites
+Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md).
+
+# How to Install
 Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md).
+
+# Changelog
+Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/unblockhostid/blob/master/CHANGELOG.md).
 
 # Licence
 UnBlockHostID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
