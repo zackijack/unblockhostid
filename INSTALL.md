@@ -1,5 +1,5 @@
 # Cara Install
-Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
+Sebelumnya, download filenya dulu melalui link ini [unblockhostid-master.zip](https://github.com/apkcube/unblockhostid/archive/master.zip), kemudian lanjut cara dibawah.
 
 ## Windows
 
@@ -11,9 +11,9 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 **Cara Mudah #1**
 
-Download versi GUI melalui link ini: [BlockHostID-GUI.exe](https://github.com/apkcube/blockhostid/blob/master/BlockHostID-GUI.exe?raw=true)
+Download versi GUI melalui link ini: [UnBlockHostID-GUI.exe](https://github.com/apkcube/blockhostid/blob/master/UnBlockHostID-GUI.exe?raw=true)
 
-Jalankan BlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
+Jalankan UnBlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
 
 **Cara Mudah #2**
 
@@ -52,7 +52,7 @@ Hapus semua centang pada hosts sources
 Klik add lalu tambahkan link berikut
 
 ```
-https://github.com/apkcube/blockhostid/blob/master/hosts%20(Android)
+https://github.com/gvoze32/unblockhostid/blob/master/hosts%20(Android)
 ```
 
 Apply.. Selesai..
