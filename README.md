@@ -1,7 +1,7 @@
 # BlockHostID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
-![GUI v20](https://i.imgur.com/K9tsOyn.jpg)
+![GUI v21](https://image.prntscr.com/image/pxv3l4WjQ0GATRg3RWNiTw.png)
 
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini [blockhostid-master.zip](https://github.com/apkcube/blockhostid/archive/master.zip), kemudian lanjut cara dibawah.
@@ -203,6 +203,13 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Projecthentai.com
 - Savido.net
 - Bakabt.me
+- Javdude.com
+- Javgo.me
+- Wetpussygames.com
+- Xtheatre.net
+- Milftoon.com
+- Watchxxxfree.com
+- Harrietsugarcookie.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -244,6 +251,13 @@ Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com
 - Projecthentai.com
 - Savido.net
 - Bakabt.me
+- Javdude.com
+- Javgo.me
+- Wetpussygames.com
+- Xtheatre.net
+- Milftoon.com
+- Watchxxxfree.com
+- Harrietsugarcookie.com
 
 **v20** Added some sites
 - Bangbros.com
