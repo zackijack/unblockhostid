@@ -17,7 +17,7 @@
 - Harrietsugarcookie.com
 
 ```
-Bug for Sankakucomplex.com has been fixed.
+Fixed bug on Sankakucomplex.com.
 ```
 
 **v20** Added some sites
