@@ -1,5 +1,5 @@
 # Cara Install
-Sebelumnya, download filenya dulu melalui link ini [unblockhostid-master.zip](https://github.com/apkcube/unblockhostid/archive/master.zip), kemudian lanjut cara dibawah.
+Sebelumnya, download filenya dulu melalui link ini [unblockhostid-master.zip](https://github.com/gvoze32/unblockhostid/archive/master.zip), kemudian lanjut cara dibawah.
 
 ## Windows
 
@@ -11,7 +11,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 **Cara Mudah #1**
 
-Download versi GUI melalui link ini: [UnBlockHostID-GUI.exe](https://github.com/apkcube/blockhostid/blob/master/UnBlockHostID-GUI.exe?raw=true)
+Download versi GUI melalui link ini: [UnBlockHostID-GUI.exe](https://github.com/gvoze32/blockhostid/blob/master/UnBlockHostID-GUI.exe?raw=true)
 
 Jalankan UnBlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
 
