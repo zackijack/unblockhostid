@@ -1,5 +1,5 @@
 # Changelog
-**v21** Added some sites
+**v21** Added some sites & bug fix
 - Porntrex.com
 - Swfchan.com
 - Vporn.com
@@ -15,6 +15,10 @@
 - Milftoon.com
 - Watchxxxfree.com
 - Harrietsugarcookie.com
+
+```
+Bug for Sankakucomplex.com has been fixed.
+```
 
 **v20** Added some sites
 - Bangbros.com
