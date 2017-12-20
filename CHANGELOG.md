@@ -1,4 +1,12 @@
 # Changelog
+**v21** Added some sites
+- Hbrowse.com
+- Youporn.com
+- Candygirlvideo.com
+
+*[EXPERIMENTAL]*
+- Therockcocks.com
+
 **v21** Added some sites & bug fix
 - Porntrex.com
 - Swfchan.com
