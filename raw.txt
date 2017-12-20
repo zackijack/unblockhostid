@@ -691,3 +691,13 @@
 
 [HARRIETSUGARCOOKIE.COM]
 45.33.55.140 harrietsugarcookie.com www.harrietsugarcookie.com
+
+[CANDYGIRLVIDEO.COM]
+74.206.234.196 candygirlvideo.com www.candygirlvideo.com
+
+[YOUPORN.COM]
+67.22.32.168 youporn.com www.youporn.com
+67.22.32.168 m.youporn.com
+
+[HBROWSE.COM]
+104.28.18.40 hbrowse.com www.hbrowse.com
