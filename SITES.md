@@ -127,10 +127,14 @@
 - Milftoon.com
 - Watchxxxfree.com
 - Harrietsugarcookie.com
+- Candygirlvideo.com
+- Youporn.com
+- Hbrowse.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
+- Therockcocks.com
 
 *[SAFE FOR WORK]*
 - Kbagi.com
