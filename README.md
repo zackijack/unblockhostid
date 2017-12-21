@@ -1,4 +1,4 @@
-# UnBlockHostID
+# UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
 ![GUI v21](https://image.prntscr.com/image/LGjslb8_QIaC308enuEAcA.png)
