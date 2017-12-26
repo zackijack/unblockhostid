@@ -701,3 +701,18 @@
 
 [HBROWSE.COM]
 104.28.18.40 hbrowse.com www.hbrowse.com
+
+[MANGAKAKALOT.COM]
+104.27.175.188 mangakakalot.com
+
+[ANIMERON.ORG]
+104.24.124.27 animeron.org www.animeron.org
+
+[HENTAISTREAM.CO]
+104.27.157.102 hentaistream.co www.hentaistream.co
+
+[PLAYVIDS.COM]
+199.101.134.46 playvids.com www.playvids.com accounts.playvids.com
+
+[REDTUBE.COM]
+64.210.135.134 redtube.com www.redtube.com m.redtube.com embed.redtube.com 
