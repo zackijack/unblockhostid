@@ -130,6 +130,11 @@
 - Candygirlvideo.com
 - Youporn.com
 - Hbrowse.com
+- Mangakakalot.com
+- Animeron.org
+- Hentaistream.co
+- Playvids.com
+- Redtube.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
