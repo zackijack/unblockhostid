@@ -1,8 +1,13 @@
 # Changelog
-**v21** Added some sites
+**v22** Added some sites
 - Hbrowse.com
 - Youporn.com
 - Candygirlvideo.com
+- Mangakakalot.com
+- Animeron.org
+- Hentaistream.co
+- Playvids.com
+- Redtube.com
 
 *[EXPERIMENTAL]*
 - Therockcocks.com
