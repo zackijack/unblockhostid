@@ -27,9 +27,7 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 **Manual**
 
-Rename file hosts (Android) menjadi hosts saja.
-
-Kemudian copy file.
+Copy file hosts.
 
 Buka folder /etc dan paste.
 
@@ -52,14 +50,14 @@ Hapus semua centang pada hosts sources
 Klik add lalu tambahkan link berikut
 
 ```
-https://github.com/gvoze32/unblockhostid/blob/master/hosts%20(Android)
+https://github.com/gvoze32/unblockhostid/blob/master/hosts
 ```
 
 Apply.. Selesai..
 
 #**Non-Root**#
 
-Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/X7jVdDBc).
+Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/czMHqwqr).
 
 ## Linux dan MacOS
 
