@@ -135,6 +135,9 @@
 - Hentaistream.co
 - Playvids.com
 - Redtube.com
+- Javhub.net
+- Underhentai.net
+- Javmost.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
