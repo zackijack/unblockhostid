@@ -1,4 +1,13 @@
 # Changelog
+**v23** Bug fix & Added some sites
+- Javhub.net
+- Underhentai.net
+- Javmost.com
+
+```
+Fixed bug on Xvideos.com, Reddit.com, Imgur.com, Telegram.org, Telegram.me, T.me.
+```
+
 **v22** Added some sites
 - Hbrowse.com
 - Youporn.com
