@@ -1,5 +1,5 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
-# Uploaded by apkcube in https://github.com/apkcube/blockhostid
+# Uploaded by gvoze32 in https://github.com/gvoze32/blockhostid
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
@@ -45,13 +45,6 @@
 209.58.183.20 s218.kbagi.com
 209.58.183.21 s219.kbagi.com
 104.16.166.50 openload.co
-151.101.53.140 reddit.com
-151.101.53.140 www.reddit.com
-151.101.53.140 np.reddit.com
-151.101.53.140 bt.reddit.com
-151.101.53.140 m.reddit.com
-151.101.53.140 nm.reddit.com
-151.101.53.140 api.reddit.com
 151.101.38.109 i.vimeocdn.com
 151.101.192.217 developer.vimeo.com
 151.101.128.217 www.vimeo.com
@@ -110,12 +103,16 @@
 104.24.255.11 e-hentai.org
 94.100.18.243 forums.e-hentai.org
 209.197.3.84 static-hw.xvideos.com
-141.0.168.72 info.xvideos.com
-141.0.173.174 multi.xnxx.com
-185.88.181.11 xvideos.com
+209.197.3.84 img-hw.xvideos.com
+185.88.181.7 info.xvideos.com
+185.88.181.7 static-l1.xvideos.com
+185.88.181.7 static-l2.xvideos.com
+185.88.181.4 xvideos.com
 68.232.34.19 img-egc.xvideos.com
-185.88.181.12 www.xvideos.com
-185.88.181.13 upload.xvideos.com
+185.88.181.4 www.xvideos.com
+185.88.181.4 upload.xvideos.com
+185.88.181.4 static-l16.xvideos.com
+185.88.181.4 flashservice.xvideos.com
 208.97.151.195 paheal.net
 5.79.80.150 rule34.paheal.net
 185.88.181.60 account.xnxx.com
@@ -226,40 +223,18 @@
 64.210.135.70 static.mofos.com
 216.18.168.88 www.mofos.com
 66.254.112.121 enter.mofos.com
-151.101.193.140 e.reddit.com
-151.101.193.140 about.reddit.com
-54.208.254.144 out.reddit.com
-149.154.167.99	telegram.org
-149.154.167.99	desktop.telegram.org
-149.154.167.99	core.telegram.org
-149.154.167.99	macos.telegram.org
-149.154.167.120	web.telegram.org
-149.154.167.57	venus.web.telegram.org
-149.154.175.16	pluto.web.telegram.org
-149.154.175.16	pluto-1.web.telegram.org
-149.154.167.24	venus.web.telegram.org
-149.154.167.24	venus-1.web.telegram.org
-149.154.175.115	aurora.web.telegram.org
-149.154.175.115	aurora-1.web.telegram.org
-149.154.167.124	vesta.web.telegram.org
-149.154.167.124	vesta-1.web.telegram.org
-149.154.171.22	flora.web.telegram.org
-149.154.171.22 flora-1.web.telegram.org
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
-151.101.100.193	imgur.com
-151.101.100.193	m.imgur.com
-151.101.100.193	api.imgur.com
-151.101.100.193	www.imgur.com
-151.101.100.193	store.imgur.com
-151.101.100.193	s.imgur.com
-151.101.100.193	p.imgur.com
-151.101.100.193 i.imgur.com
+151.101.40.193 imgur.com
+151.101.52.193 m.imgur.com
+151.101.52.193 api.imgur.com
+151.101.40.193 www.imgur.com
+151.101.52.193 store.imgur.com
+151.101.52.193 s.imgur.com
+151.101.52.193 p.imgur.com
+151.101.40.193 i.imgur.com
+151.101.52.193 z.imgur.com
 104.25.250.34 a-ads.com
-149.154.167.118 web.telegram.me
-149.154.167.118 telegram.me
-149.154.167.118 ipv6.telegram.me
-149.154.167.118 t.me
 104.20.162.10 s5.mangapanda.com
 185.86.164.130 mangapanda.com
 104.20.162.10 s1.mangapanda.com
@@ -463,3 +438,22 @@
 104.27.157.102 hentaistream.co www.hentaistream.co
 199.101.134.46 playvids.com www.playvids.com accounts.playvids.com
 64.210.135.134 redtube.com www.redtube.com m.redtube.com embed.redtube.com
+151.101.129.140 reddit.com
+151.101.129.140 www.reddit.com
+151.101.1.140 np.reddit.com
+151.101.1.140 bt.reddit.com
+151.101.1.140 m.reddit.com
+151.101.1.140 nm.reddit.com
+151.101.1.140 api.reddit.com
+151.101.1.140 e.reddit.com
+151.101.1.140 about.reddit.com
+52.71.6.200 out.reddit.com
+151.101.1.140 st.reddit.com
+151.101.1.140 e.reddit.com
+151.101.1.140 imagur.reddit.com
+151.101.1.140 ssl.reddit.com
+151.101.1.140 oauth.reddit.com
+104.25.47.115 javhub.net www.javhub.net
+104.27.72.17 javmost.com WWW5.javmost.com
+104.28.25.83 underhentai.net www.underhentai.net
+104.28.24.83 static.underhentai.net
