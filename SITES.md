@@ -43,9 +43,6 @@
 - Porneq.com
 - Newgrounds.com
 - Mofos.com
-- Telegram.org
-- Telegram.me
-- T.me
 - Mangafox.me
 - Mangapanda.com
 - Tanix.net
