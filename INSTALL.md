@@ -63,9 +63,9 @@ Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/
 
 Untuk tutorial Linux dan MacOS silahkan baca tutorialnya [disini](https://pastebin.com/raw/dSFs93i2).
 
-## Experimental
+## Non-ID
 
-*Versi experimental adalah versi khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
+*Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
 
 ## Safe for Work
 
