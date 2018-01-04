@@ -1,7 +1,7 @@
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
-![GUI v22](https://image.prntscr.com/image/aumdAda1QdqjXG4mzm2kbw.png)
+![GUI v23](https://image.prntscr.com/image/w-bKwzxtSsSDsX2ueU3yhw.png)
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md).
