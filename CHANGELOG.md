@@ -5,7 +5,7 @@
 - Javmost.com
 
 ```
-Fixed bug on Xvideos.com, Reddit.com, Imgur.com
+Fixed bug on Xvideos.com, Reddit.com, Imgur.com, Newgrounds.com
 Deleted Telegram.org, Telegram.me, T.me.
 Changed name from Experimental to Non-ID
 ```
