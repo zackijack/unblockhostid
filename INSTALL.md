@@ -13,7 +13,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 Download versi GUI melalui link ini: [UNBLOCKHOSTID.exe](https://github.com/gvoze32/blockhostid/blob/master/UNBLOCKHOSTID.exe?raw=true)
 
-Jalankan UnBlockHostID-GUI.exe dengan "Run as administrator", klik Apply, done.
+Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, done.
 
 **Cara Mudah #2**
 
