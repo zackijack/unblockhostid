@@ -3,11 +3,12 @@
 - Javhub.net
 - Underhentai.net
 - Javmost.com
+- Mangapark.me
 
 ```
-Fixed bug on Xvideos.com, Reddit.com, Imgur.com, Newgrounds.com
-Deleted Telegram.org, Telegram.me, T.me.
-Changed name from Experimental to Non-ID
+-Fixed bug on Xvideos.com, Reddit.com, Imgur.com, Newgrounds.com
+-Deleted Telegram.org, Telegram.me, T.me.
+-Changed name from Experimental to Non-ID
 ```
 
 **v22** Added some sites
