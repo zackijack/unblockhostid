@@ -50,7 +50,7 @@ Hapus semua centang pada hosts sources
 Klik add lalu tambahkan link berikut
 
 ```
-https://github.com/gvoze32/unblockhostid/blob/master/hosts
+http://syafaadena.tk/hosts
 ```
 
 Apply.. Selesai..
