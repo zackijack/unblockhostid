@@ -53,6 +53,8 @@ Klik add lalu tambahkan link berikut
 http://syafaadena.tk/hosts
 ```
 
+Centang opsi "Allow Redirections" di Settings (Thx to @TrixPone)
+
 Apply.. Selesai..
 
 #**Non-Root**#
