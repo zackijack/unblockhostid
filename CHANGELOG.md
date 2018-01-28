@@ -1,4 +1,14 @@
 # Changelog
+**v24** Bug fix & Added some sites
+- Efukt.com
+- Hpjav.com
+- Mangadex.com
+- Hanime.tv
+
+```
+Fixed bug on Openload.co, Netflix.com, Hentai.cafe, Javhihi.com
+```
+
 **v23** Bug fix & Added some sites
 - Javhub.net
 - Underhentai.net
