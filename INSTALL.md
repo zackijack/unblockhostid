@@ -47,11 +47,13 @@ Buka dan grant akses root
 
 Hapus semua centang pada hosts sources
 
-Klik add lalu tambahkan link berikut
+Klik add lalu menuju ke rawgit.com kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
+```
+https://github.com/gvoze32/unblockhostid/blob/master/hosts
+```
+Kemudian akan muncul link dibawah "Use this URL in production"
 
-```
-http://syafaadena.tk/hosts
-```
+Salin kode tersebut lalu kembali ke AdAway dan tambahkan
 
 Centang opsi "Allow Redirections" di Settings (Thx to @TrixPone)
 
