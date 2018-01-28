@@ -136,6 +136,10 @@
 - Underhentai.net
 - Javmost.com
 - Mangapark.me
+- Efukt.com
+- Hpjav.com
+- Mangadex.com
+- Hanime.tv
 
 *[NON-ID]*
 - Imgur.com
