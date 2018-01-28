@@ -26,7 +26,7 @@
 209.58.183.21 s219.kbagi.com
 
 [OPENLOAD.CO]
-104.16.166.50 openload.co
+104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
 104.16.164.50 tt1.openload.co
 104.16.164.50 api.openload.co
@@ -376,7 +376,7 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-52.43.10.174 netflix.com www.netflix.com
+52.73.239.113 netflix.com www.netflix.com
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -501,6 +501,7 @@
 [JAVHIHI.COM]
 104.31.112.88 javhihi.com www.javhihi.com
 104.31.112.88 statics.javhihi.com
+69.16.175.10 data.javhihi.com
 
 [EVILANGEL.COM]
 104.20.55.135 evilangel.com www.evilangel.com
@@ -618,6 +619,7 @@
 
 [HENTAI.CAFE]
 104.25.23.115 hentai.cafe www.hentai.cafe
+104.25.23.115 cdn.hentai.cafe
 
 [PORNTREX.COM]
 185.109.161.4 porntrex.com www.porntrex.com
@@ -693,7 +695,7 @@
 104.25.47.115 javhub.net www.javhub.net
 
 [JAVMOST.COM]
-104.27.72.17 javmost.com WWW5.javmost.com
+104.27.72.17 javmost.com www5.javmost.com
 
 [UNDERHENTAI.NET]
 104.28.25.83 underhentai.net www.underhentai.net
@@ -701,3 +703,15 @@
 
 [MANGAPARK.ME]
 104.25.118.22 mangapark.me www.mangapark.me my.mangapark.me h.s.mangapark.me
+
+[EFUKT.COM]
+146.148.105.239 efukt.com www.efukt.com
+
+[HPJAV.COM]
+104.27.147.181 hpjav.com www.hpjav.com
+
+[MANGADEX.COM]
+104.18.54.65 mangadex.com www.mangadex.com
+
+[HANIME.TV]
+104.25.166.35 hanime.tv www.hanime.tv
