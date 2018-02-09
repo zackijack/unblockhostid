@@ -25,6 +25,8 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 Download versi Batch melalui link ini: [Batch.zip](https://github.com/gvoze32/unblockhostid/raw/master/Batch.zip)
 
+Pilih dan ekstrak folder/file
+
 Jalankan apply.bat, akan muncul notif kamu bisa langsung keluarkan, done.
 
 ## Android
