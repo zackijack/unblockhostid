@@ -11,7 +11,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 **Cara Mudah #1**
 
-Download versi GUI melalui link ini: [UNBLOCKHOSTID.exe](https://github.com/gvoze32/blockhostid/blob/master/UNBLOCKHOSTID.exe?raw=true)
+Download versi GUI melalui link ini: [UNBLOCKHOSTID.exe](https://github.com/gvoze32/unblockhostid/raw/master/UNBLOCKHOSTID.exe)
 
 Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, done.
 
@@ -20,6 +20,12 @@ Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, done.
 Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+**Cara Mudah #3**
+
+Download versi Batch melalui link ini: [Batch.zip](https://github.com/gvoze32/unblockhostid/raw/master/Batch.zip)
+
+Jalankan apply.bat, akan muncul notif kamu bisa langsung keluarkan, done.
 
 ## Android
 
