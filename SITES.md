@@ -140,6 +140,12 @@
 - Hpjav.com
 - Mangadex.com
 - Hanime.tv
+- Porncorn.co
+- Watchncum.biz
+- Xhubz.com
+- Xopenload.com
+- Elreyx.com
+- Hh.cx
 
 *[NON-ID]*
 - Imgur.com
