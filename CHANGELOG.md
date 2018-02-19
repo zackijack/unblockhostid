@@ -1,4 +1,16 @@
 # Changelog
+**v25** Bug fix & Added some sites
+- Porncorn.co
+- Watchncum.biz
+- Xhubz.com
+- Xopenload.com
+- Elreyx.com
+- Hh.cx
+
+```
+Removed yts.ag, added 4chanCDN(4cdn.org).
+```
+
 **v24** Bug fix & Added some sites
 - Efukt.com
 - Hpjav.com
