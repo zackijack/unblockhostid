@@ -4,7 +4,6 @@
 - Reddit.com
 - Vimeo.com
 - Thepiratebay.org
-- Yts.ag
 - Hitomi.la
 - Nhentai.net
 - Gelbooru.com
@@ -148,9 +147,9 @@
 - Hh.cx
 
 *[NON-ID]*
-- Imgur.com
-- A-ads.com
-- Therockcocks.com
+- +Imgur.com
+- +A-ads.com
+- +Therockcocks.com
 
 *[SAFE FOR WORK]*
 - Kbagi.com
@@ -158,7 +157,6 @@
 - Reddit.com
 - Vimeo.com
 - Thepiratebay.org
-- Yts.ag
 - Omegle.com
 - Rarbg.to
 - Eztv.ag
