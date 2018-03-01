@@ -25,9 +25,9 @@ UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkc
 Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/unblockhostid/issues/new).
 Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas, misal:
 
-**[REQUEST]** - Khusus bagi yang mau merekomendasikan situs baru untuk di unblock.
+**[REQUEST]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
 
-**[BUG]**     - Khusus bagi yang mau melaporkan adanya bug di salah satu situs.
+**[BUG]**     - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
 
 **[(ISP)]**   - Ini wajib disertakan, jika anda memakai dari Telkom, silahkan tulis [ID], dan jika selain ISP dari Telkom, silahkan tulis [EX].
 
