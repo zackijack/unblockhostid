@@ -33,6 +33,6 @@ Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas, misal:
 
 *Contoh request untuk situs baru: [ID] [REQUEST] example.com*
 
-*Contoh request untuk bug: [ID] [BUG] example.com*
+*Contoh request untuk bug: [ID] [BUG] [PC] example.com*
 
 Jika tidak menggunakan kode request diatas akan tidak saya kerjakan, Terima Kasih.
