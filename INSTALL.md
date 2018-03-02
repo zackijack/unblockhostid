@@ -74,11 +74,3 @@ Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/
 ## Linux dan MacOS
 
 Untuk tutorial Linux dan MacOS silahkan baca tutorialnya [disini](https://pastebin.com/raw/dSFs93i2).
-
-## Non-ID
-
-*Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
-
-## Safe for Work
-
-*Versi Safe for Work adalah versi khusus non-porn, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.*
