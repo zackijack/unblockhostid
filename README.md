@@ -8,13 +8,13 @@ Script ini dapat membantu anda untuk bypass semua konten website yang diblokir I
 # Version:
 
 ## Normal
-Versi Normal adalah versi umum yang bisa digunakan di segala perangkat dan ISP.
+*Versi Normal adalah versi umum yang bisa digunakan di segala perangkat dan ISP.*
 
 ## Non-ID
-Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom.
+*Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom.*
 
 ## Safe for Work
-Versi Safe for Work adalah versi khusus yang tidak memasukkan situs dewasa.
+*Versi Safe for Work adalah versi khusus yang tidak memasukkan situs dewasa.*
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md).
