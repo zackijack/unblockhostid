@@ -340,12 +340,6 @@
 185.86.164.130 www.mangapanda.com
 104.20.163.10 s3.mangapanda.com
 
-[MANGAFOX.ME]
-185.4.227.115 mangafox.me
-176.53.21.90 www.mangafox.me
-185.4.227.118 m.mangafox.me
-178.18.205.254 forums.mangafox.me
-
 [TANIX.NET]
 104.25.40.116 tanix.net www.tanix.net
 
@@ -379,7 +373,7 @@
 104.28.8.24 mp4hentai.com www.mp4hentai.com
 
 [NETFLIX.COM]
-52.73.239.113 netflix.com www.netflix.com
+35.166.68.183 netflix.com www.netflix.com
 
 [KISSMANGA.COM]
 104.25.45.113 kissmanga.com www.kissmanga.com
@@ -391,7 +385,7 @@
 104.25.46.113 kissasian.com www.kissasian.com
 
 [RAW.SENMANGA.COM]
-195.154.211.133 raw.senmanga.com
+104.28.10.14 raw.senmanga.com
 
 [ROTTEN.COM]
 216.218.248.135 rotten.com www.rotten.com
@@ -533,7 +527,7 @@
 31.132.6.150 ima1.data18.com
 
 [MANGAGO.ME]
-104.28.30.234 www.mangago.me
+104.28.30.234 mangago.me www.mangago.me
 104.28.31.234 avatar.mangago.me
 
 [WETMELON.COM]
@@ -666,9 +660,6 @@
 [WATCHXXXFREE.COM]
 104.24.27.14 watchxxxfree.com www.watchxxxfree.com
 
-[HARRIETSUGARCOOKIE.COM]
-45.33.55.140 harrietsugarcookie.com www.harrietsugarcookie.com
-
 [CANDYGIRLVIDEO.COM]
 74.206.234.196 candygirlvideo.com www.candygirlvideo.com
 
@@ -736,3 +727,21 @@
 
 [HH.CX]
 198.16.106.42 hh.cx www.hh.cx
+
+[KTP.US.TO]
+198.252.99.17 ktp.us.to www.ktp.us.to
+
+[TUMBLR.COM]
+66.6.33.159 tumblr.com www.tumblr.com
+216.115.100.123 assets.tumblr.com
+216.115.100.123 platform.tumblr.com
+216.115.100.125 media.tumblr.com
+216.115.100.126 api.tumblr.com
+216.115.100.125 static.tumblr.com
+216.115.100.126 vtt.tumblr.com
+
+[85PORN.com]
+192.99.67.204 85porn.com www.85porn.com
+
+[NEKOPOI.LOL]
+192.124.249.17 nekopoi.lol www.nekopoi.lol
