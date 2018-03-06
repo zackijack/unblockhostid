@@ -3,6 +3,7 @@
 - Tumblr.com
 - Ktp.us.to
 - 85porn.com
+- Nekopoi.lol
 
 ```
 Removed Harrietsugarcoockie.com, Mangafox.me
