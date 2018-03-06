@@ -145,6 +145,9 @@
 - Xopenload.com
 - Elreyx.com
 - Hh.cx
+- 85porn.com
+- Ktp.us.to
+- Tumblr.com
 
 *[NON-ID]*
 - +Imgur.com
@@ -165,3 +168,4 @@
 - Newgrounds.com
 - Heavy.com
 - Netflix.com
+- Tumblr.com
