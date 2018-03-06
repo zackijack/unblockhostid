@@ -1,4 +1,14 @@
 # Changelog
+**v26** Bug fix & Added some sites
+- Tumblr.com
+- Ktp.us.to
+- 85porn.com
+
+```
+Removed Harrietsugarcoockie.com, Mangafox.me
+Fixed bug on Raw.senmanga.com, Netflix.com, Mangago.me
+```
+
 **v25** Bug fix & Added some sites
 - Porncorn.co
 - Watchncum.biz
