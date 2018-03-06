@@ -42,7 +42,6 @@
 - Porneq.com
 - Newgrounds.com
 - Mofos.com
-- Mangafox.me
 - Mangapanda.com
 - Tanix.net
 - Heavy.com
@@ -122,7 +121,6 @@
 - Xtheatre.net
 - Milftoon.com
 - Watchxxxfree.com
-- Harrietsugarcookie.com
 - Candygirlvideo.com
 - Youporn.com
 - Hbrowse.com
