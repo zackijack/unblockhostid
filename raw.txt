@@ -745,3 +745,12 @@
 
 [NEKOPOI.LOL]
 192.124.249.17 nekopoi.lol www.nekopoi.lol
+
+[M88.COM]
+202.61.65.55 m88.com www.m88.com
+
+[ASIANBOOKIE.COM]
+104.24.29.20 asianbookie.com www.asianbookie.com
+
+[COSPLAYJAV.PL]
+104.25.59.110 cosplayjav.pl www.cosplayjav.pl
