@@ -147,6 +147,9 @@
 - Ktp.us.to
 - Tumblr.com
 - Nekopoi.lol
+- M88.com
+- Asianbookie.com
+- Cosplayjav.pl
 
 *[NON-ID]*
 - +Imgur.com
