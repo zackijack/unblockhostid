@@ -1,4 +1,14 @@
 # Changelog
+**v27** Bug fix & Added some sites
+- M88.com
+- Asianbookie.com
+- Cosplayjav.pl
+
+```
+Added new features
+Fixed bug on features
+```
+
 **v26** Bug fix & Added some sites
 - Tumblr.com
 - Ktp.us.to
