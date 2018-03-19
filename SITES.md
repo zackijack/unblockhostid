@@ -144,12 +144,18 @@
 - Elreyx.com
 - Hh.cx
 - 85porn.com
-- Ktp.us.to
 - Tumblr.com
 - Nekopoi.lol
 - M88.com
 - Asianbookie.com
 - Cosplayjav.pl
+- Iwara.tv
+- F95zone.com
+- E621.net
+- Doujins.com
+- Javdoe.com
+- Blogjav.net
+- Pornbay.org
 
 *[NON-ID]*
 - +Imgur.com
