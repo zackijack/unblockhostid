@@ -15,6 +15,8 @@ Download versi GUI melalui link ini: [UNBLOCKHOSTID.exe](https://github.com/gvoz
 
 Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, done.
 
+*Note: Mungkin akan terdeteksi sebagai virus, oleh karena itu matikan antivirus sebelum menggunakan.*
+
 **Cara Mudah #2**
 
 Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
