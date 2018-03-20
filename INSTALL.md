@@ -57,7 +57,7 @@ Buka dan grant akses root
 
 Hapus semua centang pada hosts sources
 
-Klik add lalu menuju ke rawgit.com kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
+Klik add lalu menuju ke [rawgit.com](https://rawgit.com/) kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
 ```
 https://github.com/gvoze32/unblockhostid/blob/master/hosts
 ```
