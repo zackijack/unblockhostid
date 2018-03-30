@@ -156,6 +156,10 @@
 - Javdoe.com
 - Blogjav.net
 - Pornbay.org
+- Walach.co.uk
+- Tube8.com
+- Onejav.com
+- Xxxmoviestream.com
 
 *[NON-ID]*
 - +Imgur.com
