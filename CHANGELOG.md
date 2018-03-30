@@ -1,4 +1,14 @@
 # Changelog
+**v29** Bug fix & Added some sites
+- Walach.co.uk
+- Tube8.com
+- Onejav.com
+- Xxxmoviestream.com
+
+```
+Fixed bug on Javhihi.com & Tumblr.com
+```
+
 **v28** Bug fix & Added some sites
 - Iwara.tv
 - F95zone.com
