@@ -499,6 +499,7 @@
 104.31.112.88 javhihi.com www.javhihi.com
 104.31.112.88 statics.javhihi.com
 69.16.175.10 data.javhihi.com
+104.27.162.36 javhihi.in www.javhihi.in statics.javhihi.in
 
 [EVILANGEL.COM]
 104.20.55.135 evilangel.com www.evilangel.com
@@ -739,6 +740,7 @@
 216.115.100.126 api.tumblr.com
 216.115.100.125 static.tumblr.com
 216.115.100.126 vtt.tumblr.com
+216.115.100.125 78.media.tumblr.com
 
 [85PORN.com]
 192.99.67.204 85porn.com www.85porn.com
@@ -776,3 +778,16 @@
 
 [PORNBAY.ORG]
 91.134.159.175 pornbay.org www.pornbay.org
+
+[WALACH.CO.UK]
+5.189.166.120 walach.co.uk www.walach.co.uk
+
+[TUBE8.COM]
+216.18.168.66 tube8.com www.tube8.com jp.tube8.com de.tube8.com es.tube8.com
+
+[ONEJAV.COM]
+23.94.196.152 onejav.com
+104.168.126.14 www.onejav.com
+
+[XXXMOVIESTREAM.COM]
+104.24.125.59 xxxmoviestream.com www.xxxmoviestream.com
