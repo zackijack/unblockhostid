@@ -29,20 +29,16 @@ Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/unblo
 UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Request
-!["Kami akan melayani tamu meski permintaannya aneh-aneh"](http://spongebobia.com/spongebob-captures/content/episodes/galleries/069a%20-%20Krusty%20Towers/069a%20-%20Krusty%20Towers%20(055).jpg)
-
-> "Kami akan melayani tamu meski permintaannya aneh-aneh"
-
 Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/unblockhostid/issues/new).
-Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas, misal:
+Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 
-**[REQUEST]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
+**[REQ]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
 
-**[BUG]**     - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
+**[BUG]** - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
 
 **[(ISP)]**   - Ini wajib disertakan, jika anda memakai dari Telkom, silahkan tulis [ID], dan jika selain ISP dari Telkom, silahkan tulis [EX].
 
-*Contoh request untuk situs baru: [ID] [REQUEST] example.com*
+*Contoh request untuk situs baru: [ID] [REQ] example.com*
 
 *Contoh request untuk bug: [ID] [BUG] [PC] example.com*
 
