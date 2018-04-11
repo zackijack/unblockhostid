@@ -161,11 +161,6 @@
 - Onejav.com
 - Xxxmoviestream.com
 
-*[NON-ID]*
-- +Imgur.com
-- +A-ads.com
-- +Therockcocks.com
-
 *[SAFE FOR WORK]*
 - Kbagi.com
 - Openload.co
