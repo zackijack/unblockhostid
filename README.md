@@ -1,20 +1,9 @@
-# DOWNLOAD: [UNBLOCKHOSTID](https://unblockhostid.github.io/)
+# [=DOWNLOAD=](https://unblockhostid.github.io/)
 
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
 
-![GUI v23](https://image.prntscr.com/image/w-bKwzxtSsSDsX2ueU3yhw.png)
-
-# Version:
-
-## Normal
-*Versi Normal adalah versi umum yang bisa digunakan di segala perangkat dan ISP.*
-
-## Non-ID
-*Versi Non-ID adalah versi khusus untuk pengguna ISP selain dari Telkom.*
-
-## Safe for Work
-*Versi Safe for Work adalah versi khusus yang tidak memasukkan situs dewasa.*
+![GUI v29](https://kek.gg/i/4n-HFY.png)
 
 # Supported Sites
 Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md).
