@@ -733,7 +733,7 @@
 198.252.99.17 ktp.us.to www.ktp.us.to
 
 [TUMBLR.COM]
-66.6.33.159 tumblr.com www.tumblr.com
+66.6.32.31 tumblr.com www.tumblr.com
 216.115.100.123 assets.tumblr.com
 216.115.100.123 platform.tumblr.com
 216.115.100.125 media.tumblr.com
@@ -786,8 +786,62 @@
 216.18.168.66 tube8.com www.tube8.com jp.tube8.com de.tube8.com es.tube8.com
 
 [ONEJAV.COM]
-23.94.196.152 onejav.com
+104.168.126.14 onejav.com
 104.168.126.14 www.onejav.com
 
 [XXXMOVIESTREAM.COM]
 104.24.125.59 xxxmoviestream.com www.xxxmoviestream.com
+
+[CERDAS.COM]
+91.192.111.145 cerdas.com www.cerdas.com
+
+[MANTANMUSLIM.COM]
+107.161.23.204 mantanmuslim.com www.mantanmuslim.com
+
+[HAKIHOME.COM]
+104.28.20.122 hakihome.com www.hakihome.com
+
+[IMGCHILI.NET]
+104.24.113.61 imgchili.net www.imgchili.net
+
+[AVCENS.DOWNLOAD]
+104.24.101.246 avcens.download www.avcens.download
+
+[WETHOLEFANS.COM]
+82.192.82.41 wetholefans.com www.wetholefans.com
+
+[MAXJAV.COM]
+104.25.60.107 maxjav.com www.maxjav.com
+
+[AVGIRLBLOG.ME]
+104.18.61.22 avgirlblog.me www.avgirlblog.me
+
+[SMALLJAV.US]
+104.28.10.114 smalljav.us www.smalljav.us
+
+[BIQLE.RU]
+104.31.89.145 biqle.ru www.biqle.ru
+
+[AVHEAT.COM]
+104.24.15.43 avheat.com www.avheat.com
+
+[ASEXON.COM]
+5.44.219.124 asexon.com www.asexon.com
+
+[AVGLE.COM]
+104.20.116.27 avgle.com www.avgle.com
+
+[TUOI69.COM]
+104.27.178.187 tuoi69.com www.tuoi69.com
+
+[DINOJAV.COM]
+98.124.204.16 dinojav.com www.dinojav.com
+
+[OHYEAH1080.COM]
+104.18.55.5 ohyeah1080.com www.ohyeah1080.com
+
+[BABEPEDIA.COM]
+209.188.87.144 babepedia.com www.babepedia.com
+
+[CELEBJIHAD.COM]
+104.20.137.49 celebjihad.com www.celebjihad.com
