@@ -1,4 +1,28 @@
 # Changelog
+**v30** Bug fix & Added some sites
+- Cerdas.com
+- Imgchili.net
+- Mantanmuslim.com
+- Hakihome.com
+- Avcens.download
+- Wetholefans.com
+- Maxjav.com
+- Avgirlblog.me
+- Smalljav.us
+- Biqle.ru
+- Avheat.com
+- Asexon.com
+- Avgle.com
+- Tuoi69.com
+- Dinojav.com
+- Ohyeah1080.com
+- Babepedia.com
+- Celebjihad.com
+
+```
+Fixed bug on Onejav.com & Tumblr.com
+```
+
 **v29** Bug fix & Added some sites
 - Walach.co.uk
 - Tube8.com
