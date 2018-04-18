@@ -21,6 +21,7 @@
 
 ```
 Fixed bug on Onejav.com & Tumblr.com
+Deteled Non-ID option, Deleted Safe for Work option, and Deleted other features.
 ```
 
 **v29** Bug fix & Added some sites
