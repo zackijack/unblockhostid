@@ -25,10 +25,8 @@ Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 
 **[BUG]** - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
 
-**[(ISP)]**   - Ini wajib disertakan, jika anda memakai dari Telkom, silahkan tulis [ID], dan jika selain ISP dari Telkom, silahkan tulis [EX].
+*Contoh request untuk situs baru: [REQ] example.com*
 
-*Contoh request untuk situs baru: [ID] [REQ] example.com*
-
-*Contoh request untuk bug: [ID] [BUG] [PC] example.com*
+*Contoh request untuk bug: [BUG] example.com*
 
 Jika tidak menggunakan kode request diatas akan tidak saya kerjakan, Terima Kasih.
