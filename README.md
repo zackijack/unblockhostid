@@ -23,7 +23,7 @@ Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 
 **[REQ]** - Untuk yang mau merekomendasikan situs baru untuk di unblock.
 
-**[BUG]** - Untuk yang mau melaporkan adanya bug di salah satu situs. (Khusus bug, silahkan sertakan platform apa yang kamu gunakan misal [PC] atau [HP])
+**[BUG]** - Untuk yang mau melaporkan adanya bug di salah satu situs.
 
 *Contoh request untuk situs baru: [REQ] example.com*
 
