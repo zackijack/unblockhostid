@@ -178,3 +178,5 @@
 - Ohyeah1080.com
 - Babepedia.com
 - Celebjihad.com
+- Javhd.com
+- Javbus.com
