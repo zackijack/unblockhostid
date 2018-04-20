@@ -845,3 +845,9 @@
 
 [CELEBJIHAD.COM]
 104.20.137.49 celebjihad.com www.celebjihad.com
+
+[JAVHD.COM]
+199.80.55.247 javhd.com www.javhd.com
+
+[JAVBUS.COM]
+104.24.21.64 javbus.com www.javbus.com
