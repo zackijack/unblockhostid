@@ -1,4 +1,12 @@
 # Changelog
+**v31** Bug fix, Added some sites & Added new feature
+- Javhd.com
+- Javbus.com
+
+```
+Added new features: Inject Non-ID (Imgur etc.)
+```
+
 **v30** Bug fix & Added some sites
 - Cerdas.com
 - Imgchili.net
