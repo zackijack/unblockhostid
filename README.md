@@ -29,6 +29,6 @@ Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 
 *Contoh request untuk bug: [BUG] example.com*
 
-Pastikan website yang akan direquest belum tersedia di list [SITES.MD](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md)
+Pastikan website yang akan direquest belum tersedia di list [SITES.md](https://github.com/gvoze32/unblockhostid/blob/master/SITES.md)
 
 Jika tidak menggunakan kode request diatas akan tidak saya kerjakan, Terima Kasih.
