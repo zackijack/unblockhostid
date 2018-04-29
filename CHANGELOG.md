@@ -1,4 +1,35 @@
 # Changelog
+**v32** Bug fix & Added some sites
+- Mmoframes.com
+- Javstream.cc
+- Watch8x.com
+- Hongfire.com
+- Hentai.ms
+- Jjgirls.com
+- Youjizz.com
+- Imagefap.com
+- Pandamovies.com
+- Gosexpod.com
+- Ixxx.cm
+- Slutload.com
+- Fuq.com
+- Gamesofdesire.com
+- Luscious.net
+- Ice-porn.com
+- 4tube.com
+- G6hentai.com
+- Tubestack.com
+- Hentaikey.com
+- Hentai-foundry.com
+- Subdesu-h.net
+- Hentaistream.com
+- Hentaischool.com
+- Gyutto.com
+
+```
+Fixed Inject Non-ID problem with x64 Windows.
+```
+
 **v31** Bug fix, Added some sites & Added new feature
 - Javhd.com
 - Javbus.com
