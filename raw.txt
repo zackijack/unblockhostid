@@ -566,8 +566,8 @@
 [THIENDIA.COM]
 104.31.2.165 thiendia.com www.thiendia.com
 
-[PORNLEECH.COM]
-104.31.0.187 pornleech.com www.pornleech.com
+[PORNLEECH.IS]
+104.18.55.246 pornleech.is www.pornleech.is
 
 [SEXIX.NET]
 104.27.158.192 sexix.net www.sexix.net
@@ -926,3 +926,18 @@
 
 [GYUTTO.COM]
 219.113.141.216 gyutto.com www.gyutto.com
+
+[LOVERSLAB.COM]
+104.25.91.15 loverslab.com www.loverslab.com
+
+[EROGEDOWNLOAD.COM]
+104.28.15.98 erogedownload.com www.erogedownload.com
+
+[FAPFORFUN.COM]
+216.239.32.21 fapforfun.com www.fapforfun.com
+
+[VIDEO.FC2.COM]
+104.244.99.124 video.fc2.com
+
+[SHADBASE.COM]
+104.20.227.5 shadbase.com www.shadbase.com
