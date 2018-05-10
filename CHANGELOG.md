@@ -1,4 +1,15 @@
 # Changelog
+**v33** Bug fix & Added some sites
+- Loverslab.com
+- Erogedownload.com
+- Fapforfun.com
+- Video.fc2.com
+- Shadbase.com
+
+```
+Fixed bug from Pornleech.com to Pornleech.is
+```
+
 **v32** Bug fix & Added some sites
 - Mmoframes.com
 - Javstream.cc
