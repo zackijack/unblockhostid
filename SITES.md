@@ -205,3 +205,8 @@
 - Hentaistream.com
 - Hentaischool.com
 - Gyutto.com
+- Loverslab.com
+- Erogedownload.com
+- Fapforfun.com
+- Video.fc2.com
+- Shadbase.com
