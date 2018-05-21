@@ -1,5 +1,5 @@
 # Changelog
-**v33** Added some sites
+**v34** Added some sites
 - Bioskopkeren.club
 - Yourserie.com
 - Megamich.com
