@@ -210,3 +210,11 @@
 - Fapforfun.com
 - Video.fc2.com
 - Shadbase.com
+- Bioskopkeren.club
+- Yourserie.com
+- Megamich.com
+- Animephile.com
+- Pornolab.net
+- Katcr.co
+- 1337x.to
+- Yts.am
