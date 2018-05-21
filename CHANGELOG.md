@@ -1,4 +1,14 @@
 # Changelog
+**v33** Added some sites
+- Bioskopkeren.club
+- Yourserie.com
+- Megamich.com
+- Animephile.com
+- Pornolab.net
+- Katcr.co
+- 1337x.to
+- Yts.am
+
 **v33** Bug fix & Added some sites
 - Loverslab.com
 - Erogedownload.com
