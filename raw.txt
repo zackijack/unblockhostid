@@ -941,3 +941,27 @@
 
 [SHADBASE.COM]
 104.20.227.5 shadbase.com www.shadbase.com
+
+[BIOSKOPKEREN.CLUB]
+104.18.55.159 bioskopkeren.club www.bioskopkeren.club
+
+[YOURSERIE.COM]
+103.252.220.13 yourserie.com www.yourserie.com
+
+[MEGAMICH.COM]
+104.25.86.27 megamich.com www.megamich.com
+
+[ANIMEPHILE.COM]
+67.202.67.162 animephile.com www.animephile.com
+
+[PORNOLAB.NET]
+185.36.100.195 pornolab.net www.pornolab.net
+
+[KATCR.CO]
+91.212.150.157 katcr.co www.katcr.co
+
+[1337X.TO]
+104.31.16.3 1337x.to www.1337x.to
+
+[YTS.AM]
+104.27.214.28 yts.am www.yts.am
