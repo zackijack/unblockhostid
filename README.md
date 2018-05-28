@@ -13,7 +13,7 @@ Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.c
 Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/unblockhostid/blob/master/CHANGELOG.md).
 
 # Licence
-UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/apkcube/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
+UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoze32/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Request
-Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/apkcube/unblockhostid/issues/new).
+Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/gvoze32/unblockhostid/issues/new).
