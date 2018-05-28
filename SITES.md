@@ -181,7 +181,7 @@
 - Javhd.com
 - Javbus.com
 - Mmoframes.com
-- Javstream.cc
+- Javstream.us
 - Watch8x.com
 - Hongfire.com
 - Hentai.ms
@@ -218,3 +218,6 @@
 - Katcr.co
 - 1337x.to
 - Yts.am
+- 8ch.net
+- Gojav.xyz
+- Rarbgaccess.org
