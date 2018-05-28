@@ -44,10 +44,12 @@
 151.101.1.140 about.reddit.com
 151.101.1.140 st.reddit.com
 151.101.1.140 e.reddit.com
-151.101.1.140 imagur.reddit.com
 151.101.1.140 ssl.reddit.com
 151.101.1.140 oauth.reddit.com
 52.72.53.208 out.reddit.com
+151.101.1.140 origin.reddit.com
+151.101.1.140 old.reddit.com
+151.101.1.140 sendbird.reddit.com
 
 [VIMEO.COM]
 151.101.38.109 i.vimeocdn.com
@@ -638,7 +640,7 @@
 92.222.110.68 projecthentai.com www.projecthentai.com
 
 [SAVIDO.NET]
-45.58.55.244 savido.net www.savido.net
+216.189.151.222 savido.net www.savido.net
 
 [BAKABT.ME]
 104.28.18.24 bakabt.me www.bakabt.me
@@ -779,9 +781,6 @@
 [PORNBAY.ORG]
 91.134.159.175 pornbay.org www.pornbay.org
 
-[WALACH.CO.UK]
-5.189.166.120 walach.co.uk www.walach.co.uk
-
 [TUBE8.COM]
 216.18.168.66 tube8.com www.tube8.com jp.tube8.com de.tube8.com es.tube8.com
 
@@ -854,9 +853,6 @@
 
 [MMOFRAMES.COM]
 104.24.107.202 mmoframes.com www.mmoframes.com
-
-[JAVSTREAM.CC]
-104.18.48.242 javstream.cc www.javstream.cc
 
 [WATCH8X.COM]
 104.28.7.104 watch8x.com www.watch8x.com
@@ -965,3 +961,19 @@
 
 [YTS.AM]
 104.27.214.28 yts.am www.yts.am
+
+[GOJAV.XYZ]
+104.31.79.158 gojav.xyz www.gojav.xyz
+
+[JAVSTREAM.US]
+104.18.41.67 javstream.us www.javstream.us
+
+[8CH.NET]
+104.20.43.57 8ch.net www.8ch.net
+104.20.43.57 banners.8ch.net
+104.20.43.57 media.8ch.net
+104.20.43.57 h.8ch.net
+104.20.43.57 o.8ch.net
+
+[RARBGACCESS.ORG]
+104.31.83.250 rarbgaccess.org www.rarbgaccess.org
