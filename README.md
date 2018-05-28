@@ -16,4 +16,4 @@ Histori lengkap changelog bisa dilihat [disini](https://github.com/gvoze32/unblo
 UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoze32/unblockhostid/blob/master/LICENSE) untuk informasi lebih lanjut.
 
 # Request
-Untuk yang ingin request, silahkan untuk open issues [disini](https://github.com/gvoze32/unblockhostid/issues/new).
+Untuk yang ingin request, silahkan untuk open issue [disini](https://github.com/gvoze32/unblockhostid/issues/new).
