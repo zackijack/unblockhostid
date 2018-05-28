@@ -1,4 +1,14 @@
 # Changelog
+**v35** Bug fix & Added more sites
+- 8ch.net
+- Gojav.xyz
+- Javstream.us (/.cc)
+
+```
+Fixed bug on Savido, Reddit & Javstream.
+Deleted Walach.
+```
+
 **v34** Added some sites
 - Bioskopkeren.club
 - Yourserie.com
