@@ -51,7 +51,7 @@
 - Brazzers.com
 - Pornmd.com
 - Mp4hentai.com
-- Netflix.com
+- Netflix.com (Bug will not be fixed - use VPN instead)
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
