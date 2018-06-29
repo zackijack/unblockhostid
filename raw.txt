@@ -46,7 +46,7 @@
 151.101.1.140 e.reddit.com
 151.101.1.140 ssl.reddit.com
 151.101.1.140 oauth.reddit.com
-52.72.53.208 out.reddit.com
+52.5.206.7 out.reddit.com
 151.101.1.140 origin.reddit.com
 151.101.1.140 old.reddit.com
 151.101.1.140 sendbird.reddit.com
@@ -152,7 +152,8 @@
 202.6.246.248 affiliate.r18.com
 66.6.33.22 blog.r18.com
 
-[DANBOORU.DONMAI.US]
+[DONMAI.US]
+104.20.134.45 donmai.us www.donmai.us
 67.202.114.133 danbooru.donmai.us
 
 [BROMO.COM]
@@ -202,7 +203,7 @@
 205.185.208.154 s9v7j7a4.ssl.hwcdn.net
 
 [SANKAKUCOMPLEX.COM]
-208.100.47.74 sankakucomplex.com www.sankakucomplex.com
+208.100.24.252 sankakucomplex.com www.sankakucomplex.com
 208.100.27.32 chan.sankakucomplex.com
 208.100.27.32 idol.sankakucomplex.com
 208.100.47.78 images.sankakucomplex.com
@@ -246,9 +247,6 @@
 68.232.35.116 cdn.engine.phn.doublepimp.com
 151.101.0.207 vjs.zencdn.net
 104.31.79.253 fronthub.com
-
-[PRON.TV]
-104.20.12.58 pron.tv
 
 [DMM.COM]
 103.254.144.94 stat.i3.dmm.com
@@ -353,9 +351,6 @@
 
 [THEPORNDUDE.COM]
 104.20.3.239 theporndude.com
-
-[PURURIN.US]
-104.28.19.238 pururin.us www.pururin.us
 
 [BRAZZERS.COM]
 216.18.168.61 ma.brazzers.com
@@ -942,7 +937,7 @@
 104.18.55.159 bioskopkeren.club www.bioskopkeren.club
 
 [YOURSERIE.COM]
-103.252.220.13 yourserie.com www.yourserie.com
+82.118.242.41 yourserie.com www.yourserie.com
 
 [MEGAMICH.COM]
 104.25.86.27 megamich.com www.megamich.com
@@ -974,3 +969,42 @@
 104.20.43.57 media.8ch.net
 104.20.43.57 h.8ch.net
 104.20.43.57 o.8ch.net
+
+[RARBGACCESS.ORG]
+104.31.82.250 rarbgaccess.org www.rarbgaccess.org
+
+[RMZ.CR]
+104.31.16.3 rmz.cr www.rmz.cr
+
+[ALLUC.EE]
+104.20.30.60 alluc.ee www.alluc.ee
+
+[WAXTUBE.COM]
+104.28.29.213 waxtube.com www.waxtube.com
+
+[JAV69.STREAM]
+104.28.29.211 jav69.stream www.jav69.stream
+
+[ADJAV.COM]
+104.28.25.242 adjav.com www.adjav.com
+
+[BADJOJO.COM]
+209.239.162.223 badjojo.com www.badjojo.com
+
+[SHESFREAKY.COM]
+104.27.182.185 shesfreaky.com www.shesfreaky.com
+
+[NAMETHATPORNSTAR.COM]
+104.24.111.173 namethatpornstar.com www.namethatpornstar.com
+
+[MRSKIN.COM]
+204.93.155.69 mrskin.com www.mrskin.com m.mrskin.com
+
+[AMASEX.TV]
+104.27.153.40 amasex.tv www.amasex.tv
+
+[PORINGA.NET]
+104.25.113.17 poringa.net www.poringa.net
+
+[7MM.TV]
+104.18.54.148 7mm.tv www.7mm.tv
