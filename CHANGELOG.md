@@ -1,4 +1,24 @@
 # Changelog
+**v36** Bug fix, delete & added more sites
+- Rarbgaccess.org
+- Rmz.cr
+- Alluc.ee
+- Waxtube.com
+- Jav69.stream
+- Adjav.com
+- Badjojo.com
+- Shesfreaky.com
+- Namethatpornstar.com
+- Mrskin.com
+- Amasex.tv
+- Poringa.net
+- 7mm.tv
+
+```
+Fixed bug on Reddit, Nexflix, Sankakucomplex, Donmai, & Yourserie.
+Deleted Pururin & Pron.
+```
+
 **v35** Bug fix & Added more sites
 - 8ch.net
 - Gojav.xyz
