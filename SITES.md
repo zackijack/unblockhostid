@@ -21,7 +21,7 @@
 - Bejav.net
 - Akiba-online.com
 - R18.com
-- Danbooru.donmai.us
+- Donmai.us
 - Bromo.com
 - Hentai2read.com
 - Vipergirls.to
@@ -31,7 +31,6 @@
 - Xnxx.com
 - Sankakucomplex.com
 - Paheal.net
-- Pron.tv
 - Spankbang.com
 - Dmm.com
 - Dmm.co.jp
@@ -47,11 +46,10 @@
 - Heavy.com
 - Mrpornx.com
 - Theporndude.com
-- Pururin.us
 - Brazzers.com
 - Pornmd.com
 - Mp4hentai.com
-- Netflix.com (Bug will not be fixed - use VPN instead)
+- Netflix.com (Please use [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI))
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
@@ -220,3 +218,16 @@
 - Yts.am
 - 8ch.net
 - Gojav.xyz
+- Rarbgaccess.org
+- Rmz.cr
+- Alluc.ee
+- Waxtube.com
+- Jav69.stream
+- Adjav.com
+- Badjojo.com
+- Shesfreaky.com
+- Namethatpornstar.com
+- Mrskin.com
+- Amasex.tv
+- Poringa.net
+- 7mm.tv
