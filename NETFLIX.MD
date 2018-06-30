@@ -1,3 +1,5 @@
+![Netflix Error Playback](https://virgin.i.lithium.com/t5/image/serverpage/image-id/100977i5AAC1EF5255EEB5E?v=1.0)
+
 Cara untuk menembus blokiran Netflix oleh Internet Positif Dengan menggunakan UNBLOCKHOSTID + GoodbyeDPI.
 
 Setelah menginstall UNBLOCKHOSTID, kamu akan bisa membuka Netflix, tetapi saat masuk playback mode akan ada tulisan:
