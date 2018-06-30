@@ -16,12 +16,14 @@ Setelah menginstall UNBLOCKHOSTID, kamu akan bisa membuka Netflix, tetapi saat m
 
     ======================
 
-Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet Positif jadi harus memakai GoodbyeDPI juga. Kamu bisa download GoodbyeDPI disini.
+Kurang lebih seperti itu, karena akses kecepatan Netflix dilimit oleh Internet Positif jadi harus memakai GoodbyeDPI juga.
+
+Kamu bisa download GoodbyeDPI disini.
 
 [Original](https://github.com/ValdikSS/GoodbyeDPI)
 
 [Modified](https://www.dropbox.com/s/uxqowf8dpkupkqn/GoodbyeDPI_Modified_By_Punkofthedeath.rar?dl=0) (Thanks to punkofthedeath - Tinggal extract lalu run install_service.cmd as Administrator.)
 
-Saya sarankan untuk menggunakan versi modified karena menginstallnya hanya sekali klik dan untuk menguninstallnya juga mudah. Jika kalian mengerti cara menggunakannya silahkan pakai yang original.
+Saya sarankan untuk menggunakan versi modified karena menginstallnya hanya sekali klik dan untuk menghapusnya juga mudah. Tetapi jika kalian mengerti cara menggunakan aplikasi tersebut silahkan pakai yang original.
 
 Selesai, silahkan coba untuk memutar film di Netflix.
