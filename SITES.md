@@ -49,7 +49,7 @@
 - Brazzers.com
 - Pornmd.com
 - Mp4hentai.com
-- Netflix.com (Please use [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI))
+- Netflix.com (Please use [GoodbyeDPI](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.MD))
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
