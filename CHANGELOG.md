@@ -1,4 +1,27 @@
 # Changelog
+**v37** Bug fix, delete & added more sites
+- Sukebei.nyaa.si
+- Sex.com
+- Ifl-porn.com
+- 0xxx.ws
+- Pornpics.com
+- Hleecher.tk
+- Rule34.xxx
+- Javhiv.com
+- Hentaiheroes.com
+- Pornhubpremium.com
+- Aznude.com
+- Pornoeggs.com
+- Pornflip.com
+- Daftsex.com
+- Mompov.com
+- Thefappening.pro
+
+```
+Fixed bug on Mrskin.
+Deleted Alluc.
+```
+
 **v36** Bug fix, delete & added more sites
 - Rarbgaccess.org
 - Rmz.cr
