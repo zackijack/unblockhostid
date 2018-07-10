@@ -220,7 +220,6 @@
 - Gojav.xyz
 - Rarbgaccess.org
 - Rmz.cr
-- Alluc.ee
 - Waxtube.com
 - Jav69.stream
 - Adjav.com
@@ -231,3 +230,19 @@
 - Amasex.tv
 - Poringa.net
 - 7mm.tv
+- Sukebei.nyaa.si
+- Sex.com
+- Ifl-porn.com
+- 0xxx.ws
+- Pornpics.com
+- Hleecher.tk
+- Rule34.xxx
+- Javhiv.com
+- Hentaiheroes.com
+- Pornhubpremium.com
+- Aznude.com
+- Pornoeggs.com
+- Pornflip.com
+- Daftsex.com
+- Mompov.com
+- Thefappening.pro
