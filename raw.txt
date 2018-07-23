@@ -66,17 +66,16 @@
 104.27.216.28 thepiratebay.org
 
 [HITOMI.LA]
-79.124.59.206 hitomi.la
-79.124.59.206 a.hitomi.la
-79.124.59.206 aa.hitomi.la
-79.124.59.206 atn.hitomi.la
-79.124.59.206 ba.hitomi.la
-79.124.59.206 btn.hitomi.la
-79.124.59.206 hitomi.la
-79.124.59.206 la.hitomi.la
-79.124.59.206 ltn.hitomi.la
-79.124.59.206 streaming.hitomi.la
-79.124.59.206 tn.hitomi.la
+185.145.129.33 hitomi.la www.hitomi.la
+23.237.36.202 a.hitomi.la
+23.237.36.202 aa.hitomi.la
+23.237.36.202 atn.hitomi.la
+23.237.36.202 ba.hitomi.la
+23.237.36.202 btn.hitomi.la
+23.237.36.202 la.hitomi.la
+23.237.36.202 ltn.hitomi.la
+23.237.36.202 streaming.hitomi.la
+23.237.36.202 tn.hitomi.la
 
 [NHENTAI.NET]
 141.101.120.54 nhentai.net
@@ -617,7 +616,7 @@
 104.25.23.115 cdn.hentai.cafe
 
 [PORNTREX.COM]
-185.109.161.4 porntrex.com www.porntrex.com
+109.201.133.9 porntrex.com www.porntrex.com
 
 [SWFCHAN.COM]
 88.80.28.8 swfchan.com www.swfchan.com
@@ -656,7 +655,7 @@
 69.197.161.178 milftoon.com www.milftoon.com
 
 [WATCHXXXFREE.COM]
-104.24.27.14 watchxxxfree.com www.watchxxxfree.com
+104.27.153.2 watchxxxfree.com www.watchxxxfree.com
 
 [CANDYGIRLVIDEO.COM]
 74.206.234.196 candygirlvideo.com www.candygirlvideo.com
@@ -738,12 +737,13 @@
 216.115.100.125 static.tumblr.com
 216.115.100.126 vtt.tumblr.com
 216.115.100.125 78.media.tumblr.com
+216.115.100.125 24.media.tumblr.com
+216.115.100.125 31.media.tumblr.com
+216.115.100.125 92.media.tumblr.com
+216.115.100.125 a.tumblr.com
 
 [85PORN.com]
-192.99.67.204 85porn.com www.85porn.com
-
-[NEKOPOI.LOL]
-192.124.249.17 nekopoi.lol www.nekopoi.lol
+198.255.70.85 85porn.com www.85porn.com
 
 [M88.COM]
 202.61.65.55 m88.com www.m88.com
@@ -1053,3 +1053,51 @@
 
 [IFL-PORN.COM]
 104.25.177.17 ifl-porn.com www.ifl-porn.com
+
+[VIDEOMEGAPORN.COM]
+104.27.168.11 videomegaporn.com www.videomegaporn.com
+
+[HDPORN4US.COM]
+104.31.81.78 hdporn4us.com www.hdporn4us.com
+
+[PORNZEXX.COM]
+104.27.128.124 pornzexx.com www.pornzexx.com
+
+[GONEWILD.TO]
+104.18.60.143 gonewild.to www.gonewild.to
+
+[YOURPORN.SEXY]
+80.82.77.69 yourporn.sexy www.yourporn.sexy
+
+[PORNCACHE.NET]
+104.28.27.202 xhamster.porncache.net xvideos.porncache.net porncache.net
+
+[SEAPORN.COM]
+68.178.213.61 seaporn.com www.seaporn.com
+
+[XBREEZY.CO]
+104.28.17.233 xbreezy.co www.xbreezy.co
+
+[OLYMPTRADE.COM]
+185.104.210.32 olymptrade.com www.olymptrade.com
+
+[LITTLEWHITEBUTTERFLIES.CO]
+67.205.25.100 littlewhitebutterflies.co www.littlewhitebutterflies.co
+
+[NEKOPOI.CARE]
+104.31.66.84 nekopoi.care www.nekopoi.care
+
+[HENTAIMANGA.INFO]
+104.24.98.113 hentaimanga.info www.hentaimanga.info
+
+[GOODMANGA.NET]
+104.25.124.36 goodmanga.net www.goodmanga.net
+
+[SEXIX.ME]
+104.24.123.249 sexix.me www.sexix.me
+
+[POPJAV.COM]
+172.64.174.5 popjav.com www.popjav.com
+
+[MOTHERLESS.COM]
+46.166.188.38 motherless.com www.motherless.com
