@@ -1,4 +1,32 @@
 # Changelog
+**v38** Bugs fix, delete & added more sites
+- Videomegaporn.com
+- Hdporn4us.com
+- Pornzexx.com
+- Gonewild.to
+- Yourporn.sexy
+- Porncache.net
+- Seaporn.com
+- Xbreezy.co
+- Olymptrade.com
+- Littlewhitebutterflies.co
+- Nekopoi.care
+- Hentaimanga.info
+- Goodmanga.net
+- Sexix.me
+- Popjav.com
+- Motherless.com
+- Camwhoreshd.com
+- Hentaifox.com
+- Veporns.com
+
+```
+Minor update on Tumblr, 4chan
+Major update on Netflix.
+Fixed bug on Porntrex, Watchxxxfree, 85porn, Hitomi, Javhiv, Javfull.
+Deleted Nekopoi.lol, list fixed deleted Ktp.us.to.
+```
+
 **v37** Bug fix, delete & added more sites
 - Sukebei.nyaa.si
 - Sex.com
