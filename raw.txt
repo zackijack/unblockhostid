@@ -1090,6 +1090,7 @@
 
 [GONEWILD.TO]
 104.18.60.143 gonewild.to www.gonewild.to
+104.28.27.244 gonewild.co www.gonewild.co
 
 [YOURPORN.SEXY]
 80.82.77.69 yourporn.sexy www.yourporn.sexy
