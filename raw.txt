@@ -66,7 +66,7 @@
 104.27.216.28 thepiratebay.org
 
 [HITOMI.LA]
-88.80.20.11 hitomi.la www.hitomi.la
+185.145.131.184 hitomi.la www.hitomi.la
 23.237.36.202 a.hitomi.la
 23.237.36.202 aa.hitomi.la
 23.237.36.202 atn.hitomi.la
@@ -287,8 +287,7 @@
 202.6.246.29 www.dmm.co.jp
 
 [JAVLIBRARY.COM]
-104.28.12.52 javlibrary.com
-104.28.13.52 www.javlibrary.com
+104.31.88.101 javlibrary.com www.javlibrary.com
 
 [YANDE.RE]
 92.222.110.68 yande.re
@@ -644,6 +643,7 @@
 
 [PORNTREX.COM]
 109.201.133.9 porntrex.com www.porntrex.com
+205.185.216.10 cdn.porntrex.com
 
 [SWFCHAN.COM]
 88.80.28.8 swfchan.com www.swfchan.com
@@ -1136,3 +1136,6 @@
 
 [VEPORNS.COM]
 172.64.109.6 veporns.com www.veporns.com m.veporns.com
+
+[JAVBUZ.COM]
+104.27.163.25 javbuz.com www.javbuz.com
