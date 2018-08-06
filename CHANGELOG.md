@@ -1,4 +1,12 @@
 # Changelog
+**v39** Bugs fix & added more sites
+- Javbuz.com
+
+```
+Fixed bug on Porntrex, Hitomi, Javlibrary
+=BYPASS GOOGLE SAFESEARCH=
+```
+
 **v38** Bugs fix, delete & added more sites
 - Videomegaporn.com
 - Hdporn4us.com
