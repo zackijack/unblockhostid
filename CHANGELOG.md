@@ -4,7 +4,7 @@
 
 ```
 Fixed bug on Porntrex, Hitomi, Javlibrary
-=BYPASS GOOGLE SAFESEARCH=
+=Bypass Google SafeSearch=
 ```
 
 **v38** Bugs fix, delete & added more sites
