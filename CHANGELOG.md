@@ -1,4 +1,50 @@
 # Changelog
+**v40** Bugs fix & added more sites
+- Vixen.com
+- Tushy.com
+- Lubed.com
+- Babes.com
+- Sexart.com
+- Ftvgirls.com
+- Hustler.com
+- Iknowthatgirl.com
+- Realitykings.com
+- Rk.com
+- Pornpros.com
+- Pornprosnetwork.com
+- Naughtyamerica.com
+- Videobox.com
+- Gfrevenge.com
+- Teamskeet.com
+- Exxxtrasmall.com
+- Czechav.com
+- Julesjordan.com
+- Dogfartnetwork.com
+- Passion-hd.com
+- Fakehub.com
+- Twistys.com
+- Newsensations.com
+- Clubseventeen.com
+- Legalporno.com
+- Fuckingawesome.com
+- Stasyq.com
+- Wickedpictures.com
+- Metart.com
+- Adultdeepfakes.com
+- Bangbrosnetwork.com
+- Brazzersnetwork.com
+- Ideapocket.com
+- Oppai-av.com
+- Wanz-factory.com
+- Av-e-body.com
+- Asiansexdiary.com
+- Pururin.io
+- Bestgore.com
+
+```
+=Bypass YouTube Restricted Mode=
+```
+
 **v39** Bugs fix & added more sites
 - Javbuz.com
 
