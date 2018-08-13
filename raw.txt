@@ -480,6 +480,13 @@
 66.230.169.6 blog.bangbros.com
 104.24.11.71 support.bangbros.com
 199.167.65.1 ipad.bangbros.com
+199.167.65.1 images2.bangbros.com
+199.167.65.1 x-images1.bangbros.com
+199.167.65.1 x-images2.bangbros.com
+199.167.65.1 x-images3.bangbros.com
+199.167.65.1 x-images4.bangbros.com
+199.167.65.1 x-images5.bangbros.com
+199.167.65.1 sm-members.bangbros.com
 
 [BLACKED.COM]
 104.20.1.31 blacked.com
@@ -1142,18 +1149,28 @@
 
 [VIXEN.COM]
 104.20.61.190 vixen.com www.vixen.com
+104.20.60.190 assets.vixen.com
+64.210.135.68 secure2-images-vixen.ssl-cdn.com
 
 [TUSHY.COM]
 104.20.91.240 tushy.com www.tushy.com
 
 [LUBED.COM]
 209.239.167.225 lubed.com www.lubed.com
+199.167.65.30 npuqh83217cpbcw.belugacdn.link
+104.37.177.98 k5umpxs70e4i.belugacdn.link
 
 [BABES.COM]
 216.18.168.50 babes.com www.babes.com
+205.185.208.169 static-hw.babescontent.com
+205.185.208.169 static-tour-hw.babescontent.com
+64.210.135.70 static-ht.babescontent.com
+205.185.208.169 I0-hw.babescontent.com
+205.185.208.169 I1-hw.babescontent.com
 
 [SEXART.COM]
 207.66.141.182 sexart.com www.sexart.com
+209.197.3.64 static.sexart.com
 
 [FTVGIRLS.COM]
 64.59.126.207 ftvgirls.com www.ftvgirls.com
@@ -1178,6 +1195,7 @@
 
 [NAUGHTYAMERICA.COM]
 34.213.106.51 naughtyamerica.com www.naughtyamerica.com
+184.106.72.56 tour.naughtyamerica.com
 
 [VIDEOBOX.COM]
 13.35.103.151 videobox.com www.videobox.com
@@ -1187,27 +1205,43 @@
 
 [TEAMSKEET.COM]
 66.254.102.9 teamskeet.com www.teamskeet.com
+64.210.135.72 cdn-assets.teamskeet.com
+64.210.135.72 cdn.teamskeetimages.com
 
 [EXXXTRASMALL.COM]
 66.254.108.234 exxxtrasmall.com www.exxxtrasmall.com
 
 [CZECHAV.COM]
 91.220.231.75 czechav.com www.czechav.com
+91.220.231.75 czechstreets.com www.czechstreets.com
+91.220.231.68 czechcash.com www.czechcash.com
+185.76.9.14 thumbs.czechcash.com
+185.76.9.14 static.v2.paysites.czechcash.com
 
 [JULESJORDAN.COM]
 216.18.176.58 julesjordan.com www.julesjordan.com
+64.210.135.72 thumbs.julesjordan.com
 
 [DOGFARTNETWORK.COM]
 66.254.99.240 dogfartnetwork.com www.dogfartnetwork.com
+69.16.175.42 cdn1-static-hw.dogfartnetwork.com
 
 [PASSION-HD.COM]
 64.210.129.212 passion-hd.com www.passion-hd.com
+64.111.208.101 belugacdn.com www.belugacdn.com
 
 [FAKEHUB.COM]
 216.18.168.76 fakehub.com www.fakehub.com
+64.210.135.70 static-ht.fakehubcontent.com
+64.210.135.70 ht.fakehubcontent.com
 
 [TWISTYS.COM]
 216.18.168.69 twistys.com www.twistys.com
+205.185.208.69 i0-hw.twistyscontent.com
+205.185.208.69 i1-hw.twistyscontent.com
+205.185.208.69 i2-hw.twistyscontent.com
+205.185.208.69 i3-hw.twistyscontent.com
+205.185.208.69 static-hw.twistyscontent.com
 
 [NEWSENSATIONS.COM]
 74.206.178.146 newsensations.com www.newsensations.com
@@ -1220,24 +1254,31 @@
 
 [FUCKINGAWESOME.COM]
 66.254.103.152 fuckingawesome.com www.fuckingawesome.com
+64.210.135.68 cdn-images.fuckingawesome.com
+64.210.135.72 cdn-thumbs.fuckingawesome.com
 
 [STASYQ.COM]
 185.71.67.117 stasyq.com www.stasyq.com
+185.71.66.214 files.stasyq.com
 
 [WICKEDPICTURES.COM]
 209.239.165.48 wickedpictures.com www.wickedpictures.com
 
 [METART.COM]
 207.66.141.182 metart.com www.metart.com
+209.197.3.64 static.metart.com
 
 [ADULTDEEPFAKES.COM]
 88.85.81.85 adultdeepfakes.com www.adultdeepfakes.com
 
 [BANGBROSNETWORK.COM]
 76.9.25.216 bangbrosnetwork.com www.bangbrosnetwork.com
+104.24.7.13 t8.bangbrosnetwork.com
 
 [BRAZZERSNETWORK.COM]
 216.18.168.71 brazzersnetwork.com www.brazzersnetwork.com
+68.232.34.121 static-vz.brazzerscontent.com
+68.232.34.121 static-tour-vz.brazzerscontent.com
 
 [IDEAPOCKET.COM]
 61.196.18.129 ideapocket.com www.ideapocket.com
