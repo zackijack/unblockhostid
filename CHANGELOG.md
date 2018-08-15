@@ -6,9 +6,9 @@
 - Add new rule command to auto delete temp file using list array
 - Design bug fix
 - Credit coming soon
-- Simplify
+- Simplify the design to looks minimalistic
 - Fixed index.html design on main website
-- Merged pull request from Bagus23.
+- Merged pull request from Bagus23
 
 **v40** Bugs fix & added more sites
 - Vixen.com
