@@ -2,7 +2,7 @@
 **Pre-update v41** Added feature and bug fix on application
 - Added Licence Agreement
 - Fixed Settings form
-- Fixed Options Form
+- Fixed Options form
 - Add new rule command to auto delete temp file using list array
 - Design bug fix
 - Credit coming soon
