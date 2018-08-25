@@ -715,6 +715,7 @@
 
 [REDTUBE.COM]
 64.210.135.134 redtube.com www.redtube.com m.redtube.com embed.redtube.com
+64.210.135.236 thumbs-cdn.redtube.com
 
 [JAVHUB.NET]
 104.25.47.115 javhub.net www.javhub.net
@@ -794,6 +795,7 @@
 
 [E621.NET]
 104.24.10.70 e621.net www.e621.net
+107.189.160.234 static1.e621.net
 
 [DOUJINS.COM]
 206.190.133.108 doujins.com www.doujins.com
@@ -987,6 +989,7 @@
 
 [YTS.AM]
 104.27.214.28 yts.am www.yts.am
+104.31.16.3 yts.ag www.yts.ag
 
 [GOJAV.XYZ]
 104.31.79.158 gojav.xyz www.gojav.xyz
@@ -1033,6 +1036,12 @@
 
 [PORINGA.NET]
 104.25.113.17 poringa.net www.poringa.net
+104.25.113.17 img-1.poringa.net
+104.25.113.17 img-2.poringa.net
+104.25.113.17 img-5.poringa.net
+104.25.113.17 img-7.poringa.net
+104.25.113.17 img-8.poringa.net
+104.25.113.17 static.poringa.net
 
 [7MM.TV]
 104.18.54.148 7mm.tv www.7mm.tv
@@ -1073,12 +1082,18 @@
 
 [RULE34.XXX]
 178.21.23.134 rule34.xxx www.rule34.xxx
+89.233.106.186 img.rule34.xxx
 
 [HLEECHER.TK]
 104.236.82.224 hleecher.tk www.hleecher.tk
 
 [PORNPICS.COM]
 108.60.221.53 pornpics.com www.pornpics.com
+108.60.221.53 css.pornpics.com
+104.37.178.118 content.pornpics.com
+104.37.178.118 static.pornpics.com
+104.37.178.118 img.pornpics.com
+213.174.135.1 images.pornpics.com
 
 [0XXX.WS]
 185.66.141.130 0xxx.ws www.0xxx.ws
@@ -1302,5 +1317,20 @@
 104.27.81.16 bestgore.com www.bestgore.com
 
 [FANFICTION.NET]
-208.80.123.103 fanfiction.net
+208.80.123.103 fanfiction.net www.fanfiction.net
 173.205.184.6 www.fanfiction.net m.fanfiction.net
+
+[300MBFILMS.ORG]
+195.154.187.16 300mbfilms.org www.300mbfilms.org
+
+[MYREADINGMANGA.INFO]
+104.20.22.234 myreadingmanga.info www.myreadingmanga.info
+104.20.23.234 img.myreadingmanga.info
+
+[FUCKSERV.COM]
+192.254.233.249 fuckserv.com www.fuckserv.com
+192.254.233.249 minijavking.fuckserv.com
+
+[XDEZIRE.COM]
+104.31.76.51 xdezire.com www.xdezire.com
+104.31.76.51 jav.xdezire.com
