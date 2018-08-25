@@ -1300,3 +1300,7 @@
 
 [BESTGORE.COM]
 104.27.81.16 bestgore.com www.bestgore.com
+
+[FANFICTION.NET]
+208.80.123.103 fanfiction.net
+173.205.184.6 www.fanfiction.net m.fanfiction.net
