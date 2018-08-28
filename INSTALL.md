@@ -3,33 +3,9 @@ Sebelumnya, download filenya dulu melalui link ini [unblockhostid-master.zip](ht
 
 ## Windows
 
-Pilih salah satu cara di bawah
-
-**Cara #1** 
-
-Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
-
-**Cara #2**
-
-Download versi GUI melalui link ini: [UNBLOCKHOSTID.exe](https://github.com/gvoze32/unblockhostid/raw/master/UNBLOCKHOSTID.exe)
-
-Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, done.
+Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, selesai.
 
 *Note: Mungkin akan terdeteksi sebagai virus, oleh karena itu matikan antivirus sebelum menggunakan.*
-
-**Cara #3**
-
-Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
-
-File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
-
-**Cara #4**
-
-Download versi Batch melalui link ini: [Batch.zip](https://github.com/gvoze32/unblockhostid/raw/master/Batch.zip)
-
-Pilih dan ekstrak folder/file
-
-Jalankan apply.bat, akan muncul notif kamu bisa langsung keluarkan, done.
 
 ## Android
 
