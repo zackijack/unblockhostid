@@ -7,7 +7,7 @@
 - Nijie.info
 
 ```
-Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, & Brazzersnetwork.
+Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, Redtube & Brazzersnetwork.
 Deleted Kbagi
 ```
 
