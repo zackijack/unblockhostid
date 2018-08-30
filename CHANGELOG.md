@@ -8,6 +8,7 @@
 
 ```
 Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, Redtube & Brazzersnetwork.
+Critical bug fix for Gelbooru
 Deleted Kbagi
 ```
 
