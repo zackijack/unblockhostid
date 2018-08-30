@@ -58,8 +58,8 @@
 185.2.83.13 i.nhentai.net
 
 [GELBOORU.COM]
-5.178.68.100 gelbooru.com
-5.178.68.100 www.gelbooru.com
+5.178.68.100 gelbooru.com www.gelbooru.com
+212.8.240.5 simg3.gelbooru.com
 
 [OMEGLE.COM]
 104.23.128.76 omegle.com
