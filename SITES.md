@@ -48,7 +48,7 @@
 - Brazzers.com
 - Pornmd.com
 - Mp4hentai.com
-- Netflix.com (Please use [GoodbyeDPI](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.MD))
+- Netflix.com (Please use [GoodbyeDPI](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.md))
 - Kissmanga.com
 - Kissanime.ru
 - Kissasian.com
