@@ -1,4 +1,16 @@
 # Changelog
+**v41** Bugs fix, delete & added more sites
+- Xdezire.com
+- Fanfiction.net
+- 300mbfilms.org
+- Myreadingmanga.info
+- Nijie.info
+
+```
+Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, & Brazzersnetwork.
+Deleted Kbagi
+```
+
 **Pre-update v41** Added feature and bug fix on application
 - Added Licence Agreement
 - Fixed Settings form
