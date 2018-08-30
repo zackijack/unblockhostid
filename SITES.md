@@ -1,5 +1,4 @@
 # List of supported sites:
-- Kbagi.com
 - Openload.co
 - Reddit.com
 - Vimeo.com
@@ -306,3 +305,8 @@
 - Asiansexdiary.com
 - Pururin.io
 - Bestgore.com
+- Xdezire.com
+- Fanfiction.net
+- 300mbfilms.org
+- Myreadingmanga.info
+- Nijie.info
