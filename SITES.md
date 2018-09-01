@@ -142,7 +142,6 @@
 - Hh.cx
 - 85porn.com
 - Tumblr.com
-- Nekopoi.lol
 - M88.com
 - Asianbookie.com
 - Cosplayjav.pl
