@@ -21,5 +21,8 @@ UNBLOCKHOSTID dilisensikan di bawah MIT. Lihat [LICENSE](https://github.com/gvoz
 # Request
 Untuk yang ingin request, silahkan untuk open issue [disini](https://github.com/gvoze32/unblockhostid/issues/new).
 
+# Rules
+Sebelum menggunakan aplikasi ini, Anda wajib mematuhi peraturan yang kami buat, dengan menggunakan aplikasi ini Anda berarti menerima segala akibat yang ditimbulkan. Lihat [RULES](https://github.com/gvoze32/unblockhostid/blob/master/RULES.md).
+
 # Database
 Database pemblokiran oleh Kominfo bisa didownload [disini](https://trustpositif.kominfo.go.id/downloaddb.php)
