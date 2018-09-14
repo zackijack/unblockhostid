@@ -1,6 +1,6 @@
 # [DOWNLOAD](https://unblockhostid.github.io/)
 
-- [x] Terkadang akan terdeteksi false positive oleh beberapa Anti Virus dikarenakan memiliki sistem replace file, jadi wajar kalau dianggap virus. Tapi kami menjamin 100% aman kok. Bisa dilihat sendiri di [VirusTotal](https://www.virustotal.com/#/file/6e9b8b75648938815ae544b0f3afede3f005018e5e4f47647195941f104e70d6/detection).
+- [x] Mungkin di perangkat Anda aplikasi ini akan terdeteksi false positive oleh Anti Virus dikarenakan memiliki sistem replace file, jadi wajar kalau dianggap virus. Tapi kami menjamin 100% aman kok. Bisa dilihat sendiri di [VirusTotal](https://www.virustotal.com/#/file/6e9b8b75648938815ae544b0f3afede3f005018e5e4f47647195941f104e70d6/detection).
 
 # UNBLOCKHOSTID
 Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa harus menggunakan vpn.
