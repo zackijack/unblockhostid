@@ -1,4 +1,18 @@
 # Changelog
+**v42** Bugs fix, delete & added more sites
+- Camwhores.tv
+- Nudogram.com
+- Thefappeningblog.com
+- Javqd.com
+- Ancensored.com
+- Javfinder.is
+- Mywife.cc
+- Mangagamer.com
+
+```
+Fixed bug on Hanime & Javlibrary.
+```
+
 **v41** Bugs fix, delete & added more sites
 - Xdezire.com
 - Fanfiction.net
@@ -7,8 +21,7 @@
 - Nijie.info
 
 ```
-Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, Redtube & Brazzersnetwork.
-Critical bug fix for Gelbooru
+Fixed bug on Poringa, Pornpics, Rule34, E621, Bangbros, Vixen, Lubed, Babes, Sexart, Naughtyamerica, Teamskeet, Czechav, Julesjordan, Dogfartnetwork, Passion-hd, Fakehub, Twistys, Fuckingawesome, Stasyq, Metart, Bangbrosnetwork, Redtube, Brazzersnetwork, & Gelbooru
 Deleted Kbagi
 ```
 
