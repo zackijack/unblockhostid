@@ -11,7 +11,7 @@ Semua daftar situs yang support bisa kamu cek [disini](https://github.com/gvoze3
 # How to Install
 Untuk tahapan atau cara instalasi, silahkan menuju [INSTALL.md](https://github.com/gvoze32/unblockhostid/blob/master/INSTALL.md).
 
-## -*Netflix*-
+# Netflix
 Untuk cara menembus blokiran Netflix, silahkan menuju [NETFLIX.md](https://github.com/gvoze32/unblockhostid/blob/master/NETFLIX.md).
 
 # Changelog
