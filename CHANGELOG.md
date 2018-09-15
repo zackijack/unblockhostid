@@ -8,6 +8,7 @@
 - Javfinder.is
 - Mywife.cc
 - Mangagamer.com
+- Myfreecams.com
 
 ```
 Fixed bug on Hanime & Javlibrary.
