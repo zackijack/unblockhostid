@@ -260,7 +260,7 @@
 202.6.246.29 www.dmm.co.jp
 
 [JAVLIBRARY.COM]
-104.31.88.101 javlibrary.com www.javlibrary.com
+104.24.105.86 javlibrary.com www.javlibrary.com
 
 [YANDE.RE]
 92.222.110.68 yande.re
@@ -713,7 +713,8 @@
 104.18.54.65 mangadex.com www.mangadex.com
 
 [HANIME.TV]
-104.25.166.35 hanime.tv www.hanime.tv
+104.27.241.171 hanime.tv
+104.27.240.171 www.hanime.tv uploads.hanime.tv ark.hanime.tv oberon.hanime.tv m.hanime tapi.hanime.tv
 
 [PORNCORN.CO]
 5.254.97.172 porncorn.co www.porncorn.co
@@ -1304,3 +1305,30 @@
 
 [NIJIE.INFO]
 160.16.107.42 nijie.info www.nijie.info
+
+[CAMWHORES.TV]
+89.248.174.139 camwhores.video www.camwhores.video camwhores.biz www.camwhores.biz camwhores.tv www.camwhores.tv
+
+[MYFREECAMS.COM]
+207.229.73.118 myfreecams.com www.myfreecams.com archive2.myfreecams.com beta.myfreecams.com s.myfreecams.com videoo.myfreecams.com www1.myfreecams.com archive3.myfreecams.com bichymom.myfreecams.com proliles.myfreecams.com studio.admin.myfreecams.com www.m.myfreecams.com www.myfreecams.com-www.myfreecams.com www2.myfreecams.com
+
+[NUDOGRAM.COM]
+185.180.197.226 nudogram.com www.nudogram.com
+
+[THEFAPPENINGBLOG.COM]
+104.28.21.70 thefappeningblog.com www.thefappeningblog.com
+
+[JAVQD.COM]
+104.27.129.136 javqd.com www.javqd.com
+
+[ANCENSORED.COM]
+88.214.194.140 ancensored.com www.ancensored.com es.ancensored.com it.ancensored.com de.ancensored.com fr.ancensored.com pt.ancensored.com
+
+[JAVFINDER.IS]
+104.18.41.224 javfinder.is www.javfinder.is www5.javfinder.is
+
+[MYWIFE.CC]
+133.242.235.248 mywife.cc www.mywife.cc
+
+[MANGAGAMER.COM]
+209.54.51.89 mangagamer.com www.mangagamer.com
