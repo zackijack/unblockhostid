@@ -309,3 +309,12 @@
 - 300mbfilms.org
 - Myreadingmanga.info
 - Nijie.info
+- Camwhores.tv
+- Nudogram.com
+- Thefappeningblog.com
+- Javqd.com
+- Ancensored.com
+- Javfinder.is
+- Mywife.cc
+- Mangagamer.com
+- Myfreecams.com
