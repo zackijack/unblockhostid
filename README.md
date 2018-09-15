@@ -1,5 +1,5 @@
 # DOWNLOAD
-- [x] [Download disini](https://unblockhostid.github.io)
+Download [disini](https://unblockhostid.github.io)
 - [x] Mungkin di perangkat Anda aplikasi ini akan terdeteksi sebagai virus oleh Anti Virus dikarenakan memiliki sistem replace file  jadi wajar kalau dianggap virus, tetapi sebenarnya hal tersebut hanya [false positive](https://id.wikipedia.org/wiki/False_positive). Kami bisa menjamin, aplikasi ini 100% aman. Bisa dilihat sendiri di [VirusTotal](https://www.virustotal.com/#/file/6e9b8b75648938815ae544b0f3afede3f005018e5e4f47647195941f104e70d6/detection).
 
 # UNBLOCKHOSTID
