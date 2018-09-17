@@ -47,7 +47,7 @@ Apply.. Selesai..
 
 #**Non-Root**#
 
-Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/czMHqwqr).
+Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/rzjYwWFZ).
 
 ## Linux dan MacOS
 
