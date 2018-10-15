@@ -1,4 +1,7 @@
 # Changelog
+**v43** App Update
+- Application bug fixed, simplified, function updated, and many more! 
+
 **v42** Bugs fix, delete & added more sites
 - Camwhores.tv
 - Nudogram.com
