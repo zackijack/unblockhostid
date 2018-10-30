@@ -131,7 +131,7 @@
 - Javmost.com
 - Mangapark.me
 - Efukt.com
-- Hpjav.com
+- Hpjav.tv
 - Mangadex.com
 - Hanime.tv
 - Porncorn.co
@@ -318,3 +318,7 @@
 - Mywife.cc
 - Mangagamer.com
 - Myfreecams.com
+- Tokyomotion.net
+- Javhay.pro
+- Anime-pictures.net
+- Narutopixxx.com
