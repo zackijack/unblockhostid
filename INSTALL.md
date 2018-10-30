@@ -3,7 +3,7 @@ Sebelumnya, download filenya dulu melalui link [ini](https://unblockhostid.githu
 
 ## Windows
 
-Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply, selesai.
+Jalankan UNBLOCKHOSTID.exe dengan "Run as administrator", klik Apply
 
 *Note: Mungkin akan terdeteksi sebagai virus, oleh karena itu matikan antivirus sebelum menggunakan.*
 
@@ -41,7 +41,7 @@ Salin kode diatas lalu kembali ke AdAway dan tambahkan
 
 Centang opsi "Allow Redirections" di Settings (Thx to @TrixPone)
 
-Apply.. Selesai..
+Apply
 
 #**Non-Root**#
 
