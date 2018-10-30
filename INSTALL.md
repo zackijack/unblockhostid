@@ -33,7 +33,7 @@ Buka dan grant akses root
 
 Hapus semua centang pada hosts sources
 
-```1.``` Klik add lalu menuju ke [GitCDN](https://raw.githack.com/) kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
+```1``` Klik add lalu menuju ke [GitCDN](https://raw.githack.com/) kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
 
 ```
 https://github.com/gvoze32/unblockhostid/blob/master/hosts
