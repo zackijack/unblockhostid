@@ -23,17 +23,23 @@
 151.101.1.140 origin.reddit.com
 151.101.1.140 old.reddit.com
 151.101.1.140 sendbird.reddit.com
+151.101.1.140 new.reddit.com
+151.101.129.140 gateway.reddit.com
+151.101.1.140 events.reddit.com
+52.44.97.90 alb.reddit.com
 
 [VIMEO.COM]
-151.101.38.109 i.vimeocdn.com
-151.101.192.217 developer.vimeo.com
-151.101.128.217 www.vimeo.com
-151.101.128.217 vimeo.com
-151.101.38.109 f.vimeocdn.com
+151.101.130.109 i.vimeocdn.com
+151.101.64.217 developer.vimeo.com
+151.101.64.217 www.vimeo.com
+151.101.64.217 vimeo.com
+151.101.66.109 f.vimeocdn.com
 184.50.168.24 secure-c.vimeocdn.com
-151.101.0.217 player.vimeo.com
+151.101.64.217 player.vimeo.com
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
+80.239.137.98 a.vimeocdn.com
+151.101.17.133 fpdl.vimeocdn.com
 
 [THEPIRATEBAY.ORG]
 104.27.216.28 thepiratebay.org
@@ -104,7 +110,8 @@
 104.31.90.62 tbib.org
 
 [XHAMSTER.COM]
-88.208.29.24 xhamster.com
+88.208.18.30 xhamster.com www.xhamster.com m.xhamster.com mobi.xhamster.com
+88.208.31.1 xhcdn.com video.xhcdn.com
 
 [JAVFOR.ME]
 104.25.218.15 javfor.me
@@ -127,8 +134,7 @@
 66.6.33.22 blog.r18.com
 
 [DONMAI.US]
-104.20.134.45 donmai.us www.donmai.us
-67.202.114.133 danbooru.donmai.us
+104.20.134.45 donmai.us www.donmai.us danbooru.donmai.us
 
 [BROMO.COM]
 94.199.249.240 bromo.com www.bromo.com
@@ -146,8 +152,9 @@
 23.227.38.64 store.fakku.net
 
 [E-HENTAI.ORG]
-104.24.255.11 e-hentai.org
+104.24.255.11 e-hentai.org www.e-hentai.org
 94.100.18.243 forums.e-hentai.org
+104.237.196.116 g.e-hentai.org
 
 [XVIDEOS.COM]
 209.197.3.84 static-hw.xvideos.com
@@ -407,7 +414,7 @@
 104.27.172.92 javfull.net www.javfull.net
 
 [HIGHPORN.NET]
-104.25.47.115 highporn.net www.highporn.net
+104.25.47.115 highporn.net www.highporn.net cdn.highporn.net
 
 [DL8X.COM]
 104.27.137.67 dl8x.com www.dl8x.com
@@ -706,15 +713,12 @@
 [EFUKT.COM]
 146.148.105.239 efukt.com www.efukt.com
 
-[HPJAV.COM]
-104.27.147.181 hpjav.com www.hpjav.com
-
 [MANGADEX.COM]
 104.18.54.65 mangadex.com www.mangadex.com
 
 [HANIME.TV]
-104.27.241.171 hanime.tv
-104.27.240.171 www.hanime.tv uploads.hanime.tv ark.hanime.tv oberon.hanime.tv m.hanime tapi.hanime.tv
+104.24.31.59 hanime.tv www.hanime.tv uploads.hanime.tv ark.hanime.tv oberon.hanime.tv m.hanime tapi.hanime.tv
+104.24.30.59 cdn.hanime.tv
 
 [PORNCORN.CO]
 5.254.97.172 porncorn.co www.porncorn.co
@@ -765,7 +769,7 @@
 185.229.13.11 iwara.tv WWW.iwara.tv
 
 [F95ZONE.COM]
-104.27.72.8 f95zone.com www.f95zone.com
+104.27.72.8 f95zone.com www.f95zone.com attachments.f95zone.com
 
 [E621.NET]
 104.24.10.70 e621.net www.e621.net
@@ -963,6 +967,7 @@
 
 [YTS.AM]
 104.27.214.28 yts.am www.yts.am
+212.8.242.150 img.yts.am
 
 [GOJAV.XYZ]
 104.31.79.158 gojav.xyz www.gojav.xyz
@@ -1332,3 +1337,18 @@
 
 [MANGAGAMER.COM]
 209.54.51.89 mangagamer.com www.mangagamer.com
+
+[HPJAV.TV]
+104.27.156.190 hpjav.tv www.hpjav.tv
+
+[TOKYOMOTION.NET]
+64.187.151.194 tokyomotion.net www.tokyomotion.net
+
+[JAVHAY.PRO]
+216.239.34.21 javhay.pro www.javhay.pro
+
+[ANIME-PICTURES.NET]
+138.201.226.141 anime-pictures.net www.anime-pictures.net
+
+[NARUTOPIXXX.COM]
+208.167.227.185 narutopixxx.com www.narutopixxx.com
