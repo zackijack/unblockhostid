@@ -154,7 +154,9 @@
 [E-HENTAI.ORG]
 104.24.255.11 e-hentai.org www.e-hentai.org
 94.100.18.243 forums.e-hentai.org
+94.100.24.81 upload.e-hentai.org
 104.237.196.116 g.e-hentai.org
+81.171.20.5 api.e-hentai.org
 
 [XVIDEOS.COM]
 209.197.3.84 static-hw.xvideos.com
