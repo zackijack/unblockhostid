@@ -8,7 +8,7 @@ Contoh request untuk situs baru: [REQ] example.com
 
 Contoh request untuk bug: [BUG] example.com
 
-Sertakan juga di bagian apa bugnya, misal masih terblokir, gambar tidak muncul, atau yang lain. 
+Sertakan juga di bagian apa bugnya, misal masih terblokir, gambar tidak muncul, dsb. 
 
 Pastikan website yang akan direquest belum tersedia di list SITES.md:
 https://github.com/gvoze32/unblockhostid/blob/master/SITES.md (Gunakan CTRL+F untuk mencari)
