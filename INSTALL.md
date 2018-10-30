@@ -25,7 +25,7 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 **Aplikasi**
 
-Bisa juga melalui aplikasi AdAway yang bisa didownload [disini](https://f-droid.org/repo/org.adaway_60.apk)
+Bisa juga melalui aplikasi AdAway yang bisa didownload [disini](https://f-droid.org/repo/org.adaway_61.apk)
 
 Lalu install seperti biasa.
 
@@ -33,13 +33,20 @@ Buka dan grant akses root
 
 Hapus semua centang pada hosts sources
 
-Klik add lalu menuju ke [rawgit.com](https://rawgit.com/) kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
+```1.``` Klik add lalu menuju ke [GitCDN](https://raw.githack.com/) kemudian paste link berikut di kolom yang sudah disediakan (Thx to @alfaindomart)
+
 ```
 https://github.com/gvoze32/unblockhostid/blob/master/hosts
 ```
 Kemudian akan muncul link dibawah "Use this URL in production"
 
-Salin kode tersebut lalu kembali ke AdAway dan tambahkan
+```2``` Atau kamu bisa langsung menggunakan ini
+
+```
+https://gitcdn.xyz/repo/gvoze32/unblockhostid/master/hosts
+```
+
+Salin salah satu kode diatas lalu kembali ke AdAway dan tambahkan
 
 Centang opsi "Allow Redirections" di Settings (Thx to @TrixPone)
 
@@ -47,8 +54,15 @@ Apply.. Selesai..
 
 #**Non-Root**#
 
-Untuk tutorial non-root silahkan baca tutorialnya [disini](https://pastebin.com/raw/rzjYwWFZ).
+Sebelumnya. install Hosts Go terlebih dahulu
+https://play.google.com/store/apps/details?id=dns.hosts.server.change
 
-## Linux dan MacOS
+Buka aplikasinya, klik "Hosts Setting", Pilih filenya (file hosts yang telah di download), kemudian start
 
-Untuk tutorial Linux dan MacOS silahkan baca tutorialnya [disini](https://pastebin.com/raw/dSFs93i2).
+## Linux / BSD / macOS
+
+Buka terminal, lalu ketik atau salin kode di bawah ini
+
+```
+curl -sfLS https://gitcdn.xyz/repo/gvoze32/unblockhostid/master/hosts >> /etc/hosts
+```
