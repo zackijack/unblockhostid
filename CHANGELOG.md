@@ -1,4 +1,17 @@
 # Changelog
+**v4.4** App feature update, new version code, bugs fix, delete & added more sites
+- Hpjav.com -> Hpjav.tv
+- Tokyomotion.net
+- Javhay.pro
+- Anime-pictures.net
+- Narutopixxx.com
+
+```
+Fixed bug on Xhamster, F95zone, Pornhub (for NonID), Danbooru, Reddit, Vimeo, Yts, Hanime
+Added Block Spotify Ads feature
+Updated and improved description
+```
+
 **v43** App Update
 - Application bug fixed, simplified, function updated, and many more! 
 
