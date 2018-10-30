@@ -7,7 +7,8 @@ Untuk ketentuan request, silahkan sertakan kode untuk issue yang dibahas dengan:
 Contoh request untuk situs baru: [REQ] example.com
 
 Contoh request untuk bug: [BUG] example.com
-- :deskripsi: Masih terblokir, gambar tidak muncul, dll.
+
+Sertakan juga di bagian apa bugnya, misal masih terblokir, gambar tidak muncul, atau yang lain. 
 
 Pastikan website yang akan direquest belum tersedia di list SITES.md:
 https://github.com/gvoze32/unblockhostid/blob/master/SITES.md (Gunakan CTRL+F untuk mencari)
