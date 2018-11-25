@@ -322,3 +322,12 @@
 - Javhay.pro
 - Anime-pictures.net
 - Narutopixxx.com
+- Watchjavonline.com
+- Thatpervert.com
+- Javwhores.com
+- Pornfun.com
+- Javhub.me
+- Onlyhgames.com
+- Celebsflash.com
+- Erome.com
+- Studiofow.com
