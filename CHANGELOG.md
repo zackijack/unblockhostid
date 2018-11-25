@@ -1,4 +1,19 @@
 # Changelog
+**4.5** Major update on app and hosts system, bugs fix, delete & added more sites
+- Watchjavonline.com
+- Thatpervert.com
+- Javwhores.com
+- Pornfun.com
+- Javhub.me
+- Onlyhgames.com
+- Celebsflash.com
+- Erome.com
+- Studiofow.com
+
+```
+Fixed bug on Donmai, Javlibrary, Hitomi, Reddit, Vimeo, Mywife, Aznude, Mrskin, Mrpornx, & Pornhub (Non-ID ver.).
+```
+
 **v4.4** App feature update, new version code, bugs fix, delete & added more sites
 - Hpjav.com -> Hpjav.tv
 - Tokyomotion.net
