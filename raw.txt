@@ -27,6 +27,14 @@
 151.101.129.140 gateway.reddit.com
 151.101.1.140 events.reddit.com
 52.44.97.90 alb.reddit.com
+151.101.129.140 en.reddit.com
+151.101.129.140 en-us.reddit.com
+151.101.129.140 test.reddit.com
+151.101.129.140 nsfw.reddit.com
+151.101.129.140 pay.reddit.com
+151.101.129.140 ww.reddit.com
+151.101.129.140 blog.reddit.com
+151.101.129.140 4x.reddit.com
 
 [VIMEO.COM]
 151.101.130.109 i.vimeocdn.com
@@ -40,6 +48,8 @@
 104.156.85.217 api.vimeo.com
 80.239.137.98 a.vimeocdn.com
 151.101.17.133 fpdl.vimeocdn.com
+104.156.81.217 help.vimeo.com
+104.156.81.217 app.vimeo.com
 
 [THEPIRATEBAY.ORG]
 104.27.216.28 thepiratebay.org
@@ -47,14 +57,16 @@
 [HITOMI.LA]
 185.145.131.184 hitomi.la www.hitomi.la
 23.237.36.202 a.hitomi.la
-23.237.36.202 aa.hitomi.la
-23.237.36.202 atn.hitomi.la
-23.237.36.202 ba.hitomi.la
-23.237.36.202 btn.hitomi.la
+192.240.120.10 aa.hitomi.la
+192.240.120.10 atn.hitomi.la
+192.240.120.10 ba.hitomi.la
+192.240.120.10 btn.hitomi.la
 23.237.36.202 la.hitomi.la
-23.237.36.202 ltn.hitomi.la
+192.240.120.10 ltn.hitomi.la
 23.237.36.202 streaming.hitomi.la
-23.237.36.202 tn.hitomi.la
+192.240.120.10 tn.hitomi.la
+192.240.120.10 g.hitomi.la
+192.240.120.10 i.hitomi.la
 
 [NHENTAI.NET]
 141.101.120.54 nhentai.net
@@ -135,6 +147,7 @@
 
 [DONMAI.US]
 104.20.134.45 donmai.us www.donmai.us danbooru.donmai.us
+104.20.135.45 raikou1.donmai.us raikou2.donmai.us raikou3.donmai.us raikou4.donmai.us safebooru.donmai.us
 
 [BROMO.COM]
 94.199.249.240 bromo.com www.bromo.com
@@ -157,6 +170,8 @@
 94.100.24.81 upload.e-hentai.org
 104.237.196.116 g.e-hentai.org
 81.171.20.5 api.e-hentai.org
+104.20.135.21 r.e-hentai.org
+104.20.135.21 lofi.e-hentai.org
 
 [XVIDEOS.COM]
 209.197.3.84 static-hw.xvideos.com
@@ -269,7 +284,7 @@
 202.6.246.29 www.dmm.co.jp
 
 [JAVLIBRARY.COM]
-104.24.105.86 javlibrary.com www.javlibrary.com
+104.18.62.228 javlibrary.com www.javlibrary.com
 
 [YANDE.RE]
 92.222.110.68 yande.re
@@ -329,7 +344,7 @@
 192.0.79.34 heavy.com www.heavy.com
 
 [MRPORNX.COM]
-185.7.34.227 mrpornx.com www.mrpornx.com
+107.6.164.21 mrpornx.com www.mrpornx.com
 
 [THEPORNDUDE.COM]
 104.20.3.239 theporndude.com
@@ -1009,7 +1024,7 @@
 104.24.111.173 namethatpornstar.com www.namethatpornstar.com
 
 [MRSKIN.COM]
-204.93.155.69 mrskin.com www.mrskin.com m.mrskin.com playboy.mrskin.com blog.mrskin.com
+66.244.144.65 mrskin.com www.mrskin.com m.mrskin.com playboy.mrskin.com blog.mrskin.com
 
 [AMASEX.TV]
 104.27.153.40 amasex.tv www.amasex.tv
@@ -1049,6 +1064,9 @@
 
 [AZNUDE.COM]
 104.20.177.25 aznude.com www.aznude.com
+104.20.176.25 cdn.aznude.com beta.aznude.com men.aznude.com cdn2.aznude.com search.aznude.com cdn3.aznude.com cdn4.aznude.com preview-engine.aznude.com
+64.79.105.131 forum.aznude.com 
+18.246.31.133 status.aznude.com
 
 [PORNHUBPREMIUM.COM]
 216.18.168.19 pornhubpremium.com www.pornhubpremium.com
@@ -1335,7 +1353,8 @@
 104.18.41.224 javfinder.is www.javfinder.is www5.javfinder.is
 
 [MYWIFE.CC]
-133.242.235.248 mywife.cc www.mywife.cc
+133.242.235.248 mywife.cc www.mywife.cc biglobe.mywife.cc
+133.242.226.175 p02.mywife.cc
 
 [MANGAGAMER.COM]
 209.54.51.89 mangagamer.com www.mangagamer.com
@@ -1354,3 +1373,30 @@
 
 [NARUTOPIXXX.COM]
 208.167.227.185 narutopixxx.com www.narutopixxx.com
+
+[WATCHJAVONLINE.COM]
+104.18.60.49 watchjavonline.com www.watchjavonline.com
+
+[THATPERVERT.COM]
+149.202.210.15 thatpervert.com www.thatpervert.com www.img0.thatpervert.com
+
+[JAVWHORES.COM]
+185.107.83.68 javwhores.com www.javwhores.com
+
+[PORNFUN.COM]
+104.18.39.60 pornfun.com www.pornfun.com
+
+[JAVHUB.ME]
+104.18.54.138 javhub.me www.javhub.me www5.javhub.me
+
+[ONLYHGAMES.COM]
+104.27.164.123 onlyhgames.com www.onlyhgames.com
+
+[CELEBSFLASH.COM]
+104.27.167.155 celebsflash.com www.celebsflash.com
+
+[EROME.COM]
+198.27.67.122 erome.com www.erome.com
+
+[STUDIOFOW.COM]
+104.24.109.14 studiofow.com www.studiofow.com

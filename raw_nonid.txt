@@ -12,7 +12,7 @@
 104.16.53.111 help.imgur.com
 151.101.36.193 blog.imgur.com
 52.23.39.2 browserevents.imgur.com
-205.185.208.142 phncdn.com www.phncdn.com di.phncdn.com dv.phncdn.com dl.phncdn.com cdn1d-static-shared.phncdn.com
+205.185.208.142 phncdn.com www.phncdn.com di.phncdn.com dv.phncdn.com dl.phncdn.com cdn1d-static-shared.phncdn.com ci.phncdn.com cv.phncdn.com
 
 [BLOCKAPP]
 127.0.0.13 dns.adobe.com
